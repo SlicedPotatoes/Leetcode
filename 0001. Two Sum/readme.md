@@ -37,4 +37,4 @@ Une seule réponse valide existe.
 
 Malgré sa simplicité globale, cet exercice s'avère intéressant en raison du défi supplémentaire posé par la demande de maintenir une complexité inférieure à O(n2).
 
-![Rapport](../imgs/0001-rapport.png)
+<img src="../imgs/0001-rapport.png"/>

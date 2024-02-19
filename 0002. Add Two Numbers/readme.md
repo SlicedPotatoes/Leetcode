@@ -6,7 +6,7 @@ Vous recevez deux listes chaînées non vides représentant deux entiers non né
 
 Vous pouvez supposer que les deux nombres ne contiennent aucun zéro non significatif, à l’exception du nombre 0 lui-même.
 
-![Illustration](../imgs/0002-img1.jpg)
+<img src="../imgs/0002-img1.jpg"/>
 
 ## Exemple
 
@@ -41,4 +41,4 @@ Par la suite, j'ai pris connaissance des contraintes, dont une spécifie que "Th
 
 Conclusion : Lire les contraintes est important.
 
-![Rapport](../imgs/0002-rapport.png)
+<img src="../imgs/0002-rapport.png"/>

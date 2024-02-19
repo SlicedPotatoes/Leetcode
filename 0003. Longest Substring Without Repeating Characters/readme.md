@@ -30,4 +30,4 @@
 
 La solution naïve à cet énoncé est relativement simple à implémenter. Ce qui le rend intéressant, c'est d'essayer de développer un algorithme avec une complexité O(n).
 
-![Rapport](../imgs/0003-rapport.png)
+<img src="../imgs/0003-rapport.png"/>
