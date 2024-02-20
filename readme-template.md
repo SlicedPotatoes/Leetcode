@@ -21,4 +21,5 @@ Une seule réponse valide existe.
 
 ## Note personnelle
 
-![Rapport](../imgs/)
+<img src="../imgs/0003-runtime.png"/>
+<img src="../imgs/0003-memory.png"/>

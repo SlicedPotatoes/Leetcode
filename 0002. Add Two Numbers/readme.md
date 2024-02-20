@@ -41,4 +41,5 @@ Par la suite, j'ai pris connaissance des contraintes, dont une spécifie que "Th
 
 Conclusion : Lire les contraintes est important.
 
-<img src="../imgs/0002-rapport.png"/>
+<img src="../imgs/0002-runtime.png"/>
+<img src="../imgs/0002-memory.png"/>
