@@ -25,5 +25,7 @@ Il n'y a pas deux fleurs adjacentes dans `flowerbed`.
 
 ## Note personnelle
 
+Exercice pouvent ce résoudre en O(n). Une technique que j'ai observée dans les corrections d'autres personnes consiste à incrémenter directement l'indice (i) lorsqu'une fleur peut être plantée. Cette approche évite de modifier le tableau d'origine et permet de parcourir moins de cases du tableau, améliorant ainsi les performances de l'algorithme.
+
 <img src="../imgs/0605-runtime.png"/>
 <img src="../imgs/0605-memory.png"/>
