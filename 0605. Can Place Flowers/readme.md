@@ -19,8 +19,8 @@ Vous disposez d’un long parterre de fleurs dans lequel certaines parcelles son
 ## Contraintes
 
 `21 <= flowerbed.length <= 2 * 10^4`  
-`flowerbed[i]` et `0` ou `1`.
-Il n'y a pas deux fleurs adjacentes dans `flowerbed`.
+`flowerbed[i]` et `0` ou `1`.  
+Il n'y a pas deux fleurs adjacentes dans `flowerbed`.  
 `0 <= n <= flowerbed.length`
 
 ## Note personnelle
