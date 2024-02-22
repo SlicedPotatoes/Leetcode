@@ -62,12 +62,9 @@ vector<int> productExceptSelf(vector<int>& nums) {
 }
 ```
 
-Cette solution a une compléxité temporelle de `O(n)` et une compléxité spacialle de `O(n * 2)` si l'on exclue le tableau de sortie comme décrit dans l'ennoncé.
-Celle ci ne respecte donc pas la contrainte d'ecrire un algorithme avec une compléxité spaciale de `O(1)` en excluant le tableau de sortie.
+Cette solution a une complexité temporelle de `O(n)` et une complexité spatiale de `O(n * 2)` si l'on exclut le tableau de sortie comme décrit dans l'énoncé. Cela ne satisfait pas la contrainte d'avoir un algorithme avec une complexité spatiale de `O(1)` en excluant le tableau de sortie.
 
-L'amélioration final que j'ai apporté est donc de calculé le prefix et en le stockant dans le tableau de sortie.
-En itérant une derniere fois sur `nums1` je calcul le suffix et fait l'opération nécéssaire et je stocke le résultat final dans le tableau de sortie.
-Avec cette approche j'ai donc une compléxité spacial de `O(n)` qui deviens `O(1)` si j'exclue le tableau de sortie.
+Pour améliorer cela, j'ai décidé de calculer le préfixe et de le stocker directement dans le tableau de sortie. En itérant une dernière fois sur `nums1`, je calcule le suffixe, effectue les opérations nécessaires, et stocke le résultat final dans le tableau de sortie. Avec cette approche, j'obtiens une complexité spatiale de `O(n)`, qui devient `O(1)` si l'on exclut le tableau de sortie.
 
 <img src="../imgs/0238-runtime.png"/>
 <img src="../imgs/0238-memory.png"/>
