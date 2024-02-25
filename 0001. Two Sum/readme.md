@@ -8,7 +8,7 @@ Vous pouvez supposer que chaque entrée aurait exactement une solution et vous n
 
 Vous pouvez renvoyer la réponse dans n'importe quel ordre.
 
-Pouvez-vous proposer un algorithme dont la complexité temporelle est inférieure à O(n2) ?
+Pouvez-vous proposer un algorithme dont la complexité temporelle est inférieure à O(n^2) ?
 
 ## Exemple
 
@@ -27,15 +27,15 @@ Pouvez-vous proposer un algorithme dont la complexité temporelle est inférieur
 
 ## Contraintes
 
-`2 <= nums.length <= 104`  
-`-109 <= nums[i] <= 109`  
-`-109 <= target <= 109`
+`2 <= nums.length <= 10^4`  
+`-10^9 <= nums[i] <= 10^9`  
+`-10^9 <= target <= 10^9`
 
 Une seule réponse valide existe.
 
 ## Note personnelle
 
-Malgré sa simplicité globale, cet exercice s'avère intéressant en raison du défi supplémentaire posé par la demande de maintenir une complexité inférieure à O(n2).
+Malgré sa simplicité globale, cet exercice s'avère intéressant en raison du défi supplémentaire posé par la demande de maintenir une complexité inférieure à O(n^2).
 
 <img src="../imgs/0001-runtime.png"/>
 <img src="../imgs/0001-memory.png"/>
