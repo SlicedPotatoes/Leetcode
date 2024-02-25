@@ -59,17 +59,15 @@ Tout d'abord, il est crucial de structurer les données de manière à les explo
 Une fois que les données sont accessibles de manière efficace, la prochaine étape consiste à obtenir le résultat attendu. J'ai opté pour l'utilisation d'un parcours en profondeur (DFS), bien que le BFS aurait également pu être une option viable. Pour éviter les boucles infinies lors d'un DFS (ou d'un BFS), il est crucial de garder une trace des noeuds déjà explorés. Pour cela, j'ai utilisé un ensemble (unordered_set) avec une fonction de hachage pour vérifier efficacement si un noeud a déjà été exploré.
 
 À chaque itération du DFS, nous prenons en compte les personnes actuelles et examinons leurs relations. Si la relation a un `timei` supérieur ou égal au `timei` actuel, cela signifie que le secret peut être partagé à ce moment-là ou plus tard. Nous ajoutons donc cette relation à la pile du DFS pour une exploration ultérieure, garantissant que nous prenons en compte toutes les possibilités de partage de secrets. Ce processus se répète jusqu'à ce que toutes les relations soient explorées.
+Sans optimisation ma solution a mis 1994ms en moyenne sur les différents jeux de test.
 
 En ce qui concerne les optimisations:
 
 Utilisation d'une unordered_map pour stocker le plus petit `timei` actuellement trouvé pour chaque personne : Cette optimisation permet d'éviter de revisiter les mêmes relations déjà explorées. En gardant une trace du plus petit `timei` rencontré pour chaque personne, nous pouvons sauter les itérations inutiles lorsqu'une personne est rencontrée à un `timei` ultérieur avec un secret déjà partagé.
-Apres cet optimisation ma solution s'éxécuté en 1619ms
+Après cette optimisation ma solution s'exécuter en 1619ms.
 
 Tri du tableau meetings par `timei` décroissant : En triant le tableau meetings dans l'ordre décroissant selon le temps (`timei`), nous traitons en priorité les réunions les plus récentes. Cela signifie que lors du parcours DFS, nous explorons d'abord les réunions qui ont eu lieu plus tard dans le temps, ce qui permet d'arrêter l'itération quand `timei` est inférieur au `timei` courant.
-Cette approche réduit le nombre total d'itérations nécessaires dans le DFS, car nous nous concentrons d'abord sur les réunions les plus pertinentes pour la recherche du secret.
-
-La seconde optimisation est la plus significative, l'idée est de trier le tableau meetings par `timei` décroissant, grace a ca pendent l'itération des relations dans le DFS je peu m'arrété quand je trouve une valeur de `timei` inférieur au `timei` courrant
-Apres cet optimisation ma solution s'éxécuté en 524ms
+Après cette optimisation ma solution s'exécuter en 524ms.
 
 <img src="../imgs/2092-runtime.png"/>
 <img src="../imgs/2092-memory.png"/>
