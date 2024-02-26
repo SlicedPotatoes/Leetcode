@@ -72,7 +72,7 @@ int pivotIndex(vector<int>& nums) {
 
 Cependant, après avoir soumis cette solution, j'ai réalisé que j'utilisais plus de mémoire que nécessaire, me classant parmi les 10% les moins performants en termes d'utilisation de la mémoire.
 
-J'ai donc décidé d'optimiser l'utilisation de la mémoire. Mon intuition m'a dirigé vers la conclusion que seul le tableau 'prefix' était nécessaire. En examinant de plus près ce tableau, j'ai remarqué que l'indice pivot devait respecter la condition suivante : `prefix[i] + prefix[i - 1] == prefix[prefix.size() - 1]`.
+J'ai donc décidé d'optimiser l'utilisation de la mémoire. Mon intuition m'a dirigé vers la conclusion que seul le tableau `prefix` était nécessaire. En examinant de plus près ce tableau, j'ai remarqué que l'indice pivot devait respecter la condition suivante : `prefix[i] + prefix[i - 1] == prefix[prefix.size() - 1]`.
 
 Cependant, cette approche introduit quelques cas spéciaux plus complexes à gérer par rapport à la première approche :
 
@@ -84,7 +84,7 @@ Cependant, cette approche introduit quelques cas spéciaux plus complexes à gé
 
 J'ai également économisé de la mémoire en stockant les sommes cumulées dans `nums`
 
-Les deux solutions ont une complexité temporelle de 'O(n)' et une complexité spatiale de 'O(n)'. Cependant, la deuxième approche utilise moins de mémoire et évite la création de vecteurs, ce qui permet également de gagner un peu en temps d'exécution.
+Les deux solutions ont une complexité temporelle de `O(n)` et une complexité spatiale de `O(n)`. Cependant, la deuxième approche utilise moins de mémoire et évite la création de vecteurs, ce qui permet également de gagner un peu en temps d'exécution.
 
 <img src="../imgs/0724-runtime.png"/>
 <img src="../imgs/0724-memory.png"/>
