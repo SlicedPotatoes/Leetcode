@@ -2,7 +2,7 @@
 
 ## Énoncé
 
-Étant donné la `root` d'un arbre binaire, d'un arbre binaire, renvoie la longueur du **diamètre** de l'arbre.
+Étant donné la `root` d'un arbre binaire, renvoie la longueur du **diamètre** de l'arbre.
 
 Le **diamètre** d'un arbre binaire est la **longueur** du chemin le plus long entre deux nœuds quelconques dans un arbre. Ce chemin peut ou non passer par la `root`.
 
@@ -35,7 +35,7 @@ Le nombre de nœuds dans l'arborescence est compris entre `[1, 10^4]`.
 
 ## Note personnelle
 
-Exercice intéressant qui m'a confronté à une problématique à laquelle je n'avais jamais été confronté auparavant : trouver la distance maximale entre deux noeuds dans un arbre.
+Exercice intéressant qui m'a confronté à une problématique à laquelle je n'avais jamais été opposé auparavant : trouver la distance maximale entre deux noeuds dans un arbre.
 
 Pour résoudre ce problème, j'ai envisagé une approche consistant à partir des feuilles de l'arbre et à remonter en comptant les profondeurs des branches gauche et droite à chaque nœud.
 
