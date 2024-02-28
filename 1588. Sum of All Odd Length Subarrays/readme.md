@@ -95,7 +95,7 @@ int sumOddLengthSubarrays(vector<int>& arr) {
 
 Cette méthode est plus efficace que la précédente, avec une complexité temporelle de `O(n^2)`. Néanmoins, sachant que le problème peut être résolu en `O(n)`, il était nécessaire de poursuivre les recherches.
 
-La troisième et dernière approche adoptée a demandé plus de temps à élaborer. En examinant les calculs effectués dans la version bruteforce, une analyse des fréquences d'apparition des nombres pour chaque indice a été réalisée, révélant l'existence d'un motif distinct.
+La troisième et dernière approche adoptée a demandé plus de temps à élaborer. En examinant les calculs effectués dans la version bruteforce, chaque indice a été analysé pour déterminer les fréquences d'apparition des nombres, révélant l'existence d'un motif distinct.
 
 Voici la liste d'apparitions de chaque index en fonction de la longueur du tableau
 
