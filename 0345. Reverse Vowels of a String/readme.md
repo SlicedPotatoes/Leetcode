@@ -8,11 +8,11 @@ Les voyelles sont `'a'`, `'e'`, `'i'`, `'o'`, et `'u'`, et ils peuvent apparaît
 
 ## Exemple
 
-**Example 1:**  
+**Exemple 1:**  
 **Input:** s = "hello"  
 **Output:** "holle"
 
-**Example 2:**  
+**Exemple 2:**  
 **Input:** s = "leetcode"  
 **Output:** "leotcede"
 

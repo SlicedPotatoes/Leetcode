@@ -17,7 +17,7 @@ Nous vérifions si la fourmi est sur la frontière seulement après avoir dépla
 
 ## Exemple
 
-**Example 1:**  
+**Exemple 1:**  
 **Input:** nums = [2,3,-5]  
 **Output:** 1  
 **Explication:** Après le premier pas, la fourmi se trouve 2 pas à droite de la limite.
@@ -25,7 +25,7 @@ Après le deuxième pas, la fourmi se trouve 5 pas à droite de la limite.
 Après la troisième étape, la fourmi se trouve à la limite.
 La réponse est donc 1.
 
-**Example 2:**  
+**Exemple 2:**  
 **Input:** nums = [3,2,-3,-4]  
 **Output:** 0  
 **Explication:** Après le premier pas, la fourmi se trouve 3 pas à droite de la limite.

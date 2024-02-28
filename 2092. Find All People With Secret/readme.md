@@ -12,7 +12,7 @@ Renvoyez une liste de toutes les personnes qui détiennent le secret après tout
 
 ## Exemple
 
-**Example 1:**  
+**Exemple 1:**  
 **Input:** n = 6, meetings = [[1,2,5],[2,3,8],[1,5,10]], firstPerson = 1  
 **Output:** [0,1,2,3,5]  
 **Explication:**  
@@ -22,7 +22,7 @@ Au moment 8, la personne 2 partage le secret avec la personne 3.
 Au moment 10, la personne 1 partage le secret avec la personne 5.​​​​  
 Ainsi, les personnes 0, 1, 2, 3 et 5 connaissent le secret après toutes les réunions.
 
-**Example 2:**
+**Exemple 2:**
 **Input:** n = 4, meetings = [[3,1,3],[1,2,2],[0,3,3]], firstPerson = 3  
 **Output:** [0,1,3]  
 **Explication:**  
@@ -31,7 +31,7 @@ Au moment 2, ni la personne 1 ni la personne 2 ne connaissent le secret
 Au moment 3, la personne 3 partage le secret avec la personne 0 et la personne 1.  
 Ainsi, les personnes 0, 1 et 3 connaissent le secret après toutes les réunions.
 
-**Example 3:**
+**Exemple 3:**
 **Input:** n = 5, meetings = [[3,4,2],[1,2,1],[2,3,1]], firstPerson = 1  
 **Output:** [0,1,2,3,4]  
 **Explication:**  

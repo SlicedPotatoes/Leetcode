@@ -10,7 +10,7 @@ Notez que plusieurs enfants peuvent avoir le plus grand nombre de bonbons.
 
 ## Exemple
 
-**Example 1:**  
+**Exemple 1:**  
 **Input:** candies = [2,3,5,1,3], extraCandies = 3  
 **Output:** [true,true,true,false,true]  
 **Explication:** Si vous donnez tous les bonbons supplémentaires à :
@@ -21,7 +21,7 @@ Notez que plusieurs enfants peuvent avoir le plus grand nombre de bonbons.
 - Kid 4, Il aura 1 + 3 = 4 bonbons, ce qui n'est pas le plus grand parmi les enfants.
 - Kid 5, Il aura 3 + 3 = 6 bonbons, ce qui est le plus grand parmi les enfants.
 
-**Example 2:**  
+**Exemple 2:**  
 **Input:** candies = [4,2,1,1,2], extraCandies = 1  
 **Output:** [true,false,false,false,false]  
 **Explication:** Il n'y a qu'un seul bonbon supplémentaire.  

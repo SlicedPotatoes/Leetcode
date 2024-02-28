@@ -6,17 +6,17 @@
 
 ## Exemple
 
-**Example 1:**  
+**Exemple 1:**  
 **Input:** s = "abcabcbb"  
 **Output:** 3  
 **Explication:** La réponse est "abc", d'une longueur de 3.
 
-**Example 2:**  
+**Exemple 2:**  
 **Input:** s = "bbbbb"  
 **Output:** 1  
 **Explication:** La réponse est "b", d'une longueur de 1.
 
-**Example 3:**  
+**Exemple 3:**  
 **Input:** s = "pwwkew"  
 **Output:** 3  
 **Explication:** La réponse est "wke", d'une longueur de 3.

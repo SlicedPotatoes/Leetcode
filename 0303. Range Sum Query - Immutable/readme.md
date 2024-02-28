@@ -13,7 +13,7 @@ Implémentez la classe `NumArray` :
 
 ## Exemple
 
-**Example 1:**  
+**Exemple 1:**  
 **Input:**  
 ["NumArray", "sumRange", "sumRange", "sumRange"]  
 [[[-2, 0, 3, -5, 2, -1]], [0, 2], [2, 5], [0, 5]]  

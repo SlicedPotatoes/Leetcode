@@ -14,7 +14,7 @@ Remarque : Cette question est la même que [1991](https://leetcode.com/problems
 
 ## Exemple
 
-**Example 1:**  
+**Exemple 1:**  
 **Input:** nums = [1,7,3,6,5,6]  
 **Output:** 3  
 **Explication:**
@@ -22,13 +22,13 @@ L’indice pivot est 3.
 Somme de gauche = nums[0] + nums[1] + nums[2] = 1 + 7 + 3 = 11  
 Somme de droite = nums[4] + nums[5] = 5 + 6 = 11
 
-**Example 2:**  
+**Exemple 2:**  
 **Input:** nums = [1,2,3]  
 **Output:** -1  
 **Explication:**  
 Il n'existe aucun index qui satisfasse aux conditions de l'énoncé du problème.
 
-**Example 3:**  
+**Exemple 3:**  
 **Input:** nums = [2,1,-1]  
 **Output:** 0  
 **Explication:**  

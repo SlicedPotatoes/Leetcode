@@ -8,12 +8,12 @@ La complexité globale du temps d'exécution doit être `O(log (m+n))`.
 
 ## Exemple
 
-**Example 1:**  
+**Exemple 1:**  
 **Input:** nums1 = [1,3], nums2 = [2]  
 **Output:** 2.00000  
 **Explication:** tableau fusionné = [1,2,3] et la médiane est 2.
 
-**Example 2:**  
+**Exemple 2:**  
 **Input:** nums1 = [1,2], nums2 = [3,4]  
 **Output:** 2.50000  
 **Explication:** tableau fusionné = [1,2,3,4] et la médiane est (2 + 3) / 2 = 2.5.

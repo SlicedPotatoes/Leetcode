@@ -8,21 +8,21 @@ Pourriez-vous implémenter une solution qui s'exécute dans une complexité temp
 
 ## Exemple
 
-**Example 1:**  
+**Exemple 1:**  
 **Input:** nums = [1,2,3,4,5]  
 **Output:** true  
 **Explication:** Tout triplet où i < j < k est valide.
 
-**Example 2:**  
+**Exemple 2:**  
 **Input:**  
 **Explication:** Aucun triplet n'existe.
 
-**Example 3:**  
+**Exemple 3:**  
 **Input:** nums = [2,1,5,0,4,6]  
 **Output:** true  
 **Explication:** Le triplet (3, 4, 5) est valide car nums[3] == 0 < nums[4] == 4 < nums[5] == 6.
 
-**Example 4:**  
+**Exemple 4:**  
 **Input:** nums = [1, 5, 0, 4, 1, 3]  
 **Output:** true  
 **Explication:** Le triplet (2, 4, 5) est valide car nums[2] == 0 < nums[4] == 1 < nums[5] == 3.

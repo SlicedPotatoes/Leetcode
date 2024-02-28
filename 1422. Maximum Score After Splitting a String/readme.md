@@ -8,7 +8,7 @@ Le score après division d'une chaîne est le nombre de **zéros** dans la sous-
 
 ## Exemple
 
-**Example 1:**  
+**Exemple 1:**  
 **Input:** s = "011101"  
 **Output:** 5  
 **Explication:**  
@@ -19,12 +19,12 @@ left = "011" et right = "101", score = 1 + 2 = 3
 left = "0111" et right = "01", score = 1 + 1 = 2  
 left = "01110" et right = "1", score = 2 + 1 = 3
 
-**Example 2:**  
+**Exemple 2:**  
 **Input:** s = "00111"  
 **Output:** 5  
 **Explication:** Quand left = "00" et right = "111", on obtient le score maximum = 2 + 3 = 5
 
-**Example 3:**  
+**Exemple 3:**  
 **Input:** s = "1111"  
 **Output:** 3
 

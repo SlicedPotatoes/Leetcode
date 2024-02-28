@@ -12,19 +12,19 @@ Pouvez-vous proposer un algorithme qui a une complexité temporelle de `O(m + n)
 
 ## Exemple
 
-**Example 1:**  
+**Exemple 1:**  
 **Input:** nums1 = [1,2,3,0,0,0], m = 3, nums2 = [2,5,6], n = 3  
 **Output:** [1,2,2,3,5,6]  
 **Explication:** Les tableaux que nous fusionnons sont [1,2,3] et [2,5,6].  
 Le résultat de la fusion est [<ins>1</ins>,<ins>2</ins>,2,<ins>3</ins>,5,6] avec les éléments soulignés provenant de nums1.
 
-**Example 2:**  
+**Exemple 2:**  
 **Input:** nums1 = [1], m = 1, nums2 = [], n = 0  
 **Output:** [1]  
 **Explication:** Les tableaux que nous fusionnons sont [1] et [].  
 Le résultat de la fusion est [1].
 
-**Example 3:**  
+**Exemple 3:**  
 **Input:** nums1 = [0], m = 0, nums2 = [1], n = 1  
 **Output:** [1]  
 **Explication:** Les tableaux que nous fusionnons sont [] et [1].  

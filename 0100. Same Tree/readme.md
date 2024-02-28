@@ -8,17 +8,17 @@ Deux arbres binaires sont considérés comme identiques s’ils sont structurell
 
 ## Exemple
 
-**Example 1:**  
+**Exemple 1:**  
 <img src="../imgs/0100-img1.png"/>  
 **Input:** p = [1,2,3], q = [1,2,3]  
 **Output:** true
 
-**Example 2:**  
+**Exemple 2:**  
 <img src="../imgs/0100-img2.png"/>  
 **Input:** p = [1,2], q = [1,null,2]  
 **Output:** false
 
-**Example 3:**  
+**Exemple 3:**  
 <img src="../imgs/0100-img3.png"/>  
 **Input:** p = [1,2,1], q = [1,1,2]  
 **Output:** false

@@ -10,7 +10,7 @@ Renvoie la valeur positive **minimale** de startValue telle que la somme étape 
 
 ## Exemple
 
-**Example 1:**  
+**Exemple 1:**  
 **Input:** nums = [-3,2,-3,4,2]  
 **Output:** 5  
 **Explication:** Si vous choisissez startValue = 4, lors de la troisième itération, votre somme étape par étape est inférieure à 1.  
@@ -22,12 +22,12 @@ Renvoie la valeur positive **minimale** de startValue telle que la somme étape 
 |(0 **+4**) = 4 | (1 **+4**) = 5 | 4 |
 |(4 **+2**) = 6 | (5 **+2**) = 7 | 2 |
 
-**Example 2:**  
+**Exemple 2:**  
 **Input:** nums = [1,2]  
 **Output:** 1  
 **Explication:** La valeur de départ minimale doit être positive.
 
-**Example 3:**  
+**Exemple 3:**  
 **Input:** nums = [1,-2,-3]  
 **Output:** 5  
 **Explication:** Si vous choisissez startValue = 4, lors de la troisième itération, votre somme étape par étape est inférieure à 1.  

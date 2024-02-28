@@ -8,17 +8,17 @@ Renvoie la somme cumulée de `nums`.
 
 ## Exemple
 
-**Example 1:**  
+**Exemple 1:**  
 **Input:** nums = [1,2,3,4]  
 **Output:** [1,3,6,10]  
 **Explication:** La somme cumulée est obtenue comme suit: [1, 1+2, 1+2+3, 1+2+3+4].
 
-**Example 2:**  
+**Exemple 2:**  
 **Input:** nums = [1,1,1,1,1]  
 **Output:** [1,2,3,4,5]  
 **Explication:** La somme cumulée est obtenue comme suit: [1, 1+1, 1+1+1, 1+1+1+1, 1+1+1+1+1].
 
-**Example 3:**  
+**Exemple 3:**  
 **Input:** nums = [3,1,2,10,1]  
 **Output:** [3,4,6,16,17]
 

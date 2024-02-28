@@ -8,7 +8,7 @@ Renvoie la chaîne fusionnée.
 
 ## Exemple
 
-**Example 1:**  
+**Exemple 1:**  
 **Input:** word1 = "abc", word2 = "pqr"  
 **Output:** "apbqcr"  
 **Explication:** La chaîne fusionnée sera fusionnée comme suit:  
@@ -16,7 +16,7 @@ word1: &nbsp; a &nbsp;&nbsp; b &nbsp;&nbsp; c
 word2: &nbsp;&nbsp; &nbsp; p &nbsp;&nbsp; q &nbsp;&nbsp; r  
 merged: a p b q c r
 
-**Example 2:**  
+**Exemple 2:**  
 **Input:** word1 = "ab", word2 = "pqrs"  
 **Output:** "apbqrs"  
 **Explication:** Notez que comme word2 est plus long, "rs" est ajouté à la fin.  
@@ -24,7 +24,7 @@ word1: &nbsp; a &nbsp;&nbsp; b
 word2: &nbsp;&nbsp; &nbsp; p &nbsp;&nbsp; q &nbsp;&nbsp; r &nbsp;&nbsp; s  
 merged: a p b q &nbsp;&nbsp; r &nbsp;&nbsp; s
 
-**Example 3:**  
+**Exemple 3:**  
 **Input:** word1 = "abcd", word2 = "pq"  
 **Output:** "apbqcd"  
 **Explication:** Notez que comme word1 est plus long, "cd" est ajouté à la fin.  

@@ -10,7 +10,7 @@ Pourriez-vous résoudre ce problème en complexité temporelle `O(n)` ?
 
 ## Exemple
 
-**Example 1:**  
+**Exemple 1:**  
 **Input:** arr = [1,4,2,5,3]  
 **Output:** 58  
 **Explication:**  
@@ -26,12 +26,12 @@ Les sous-tableaux de longueur impaire de arr et leurs sommes sont :
 [1,4,2,5,3] = 15  
 Si nous additionnons tout cela, nous obtenons 1 + 4 + 2 + 5 + 3 + 7 + 11 + 10 + 15 = 58
 
-**Example 2:**  
+**Exemple 2:**  
 **Input:** arr = [1,2]  
 **Output:** 3  
 **Explication:** Il n'y a que 2 sous-tableaux de longueur impaire, [1] et [2]. Leur somme est 3.
 
-**Example 3:**  
+**Exemple 3:**  
 **Input:** arr = [10,11,12]  
 **Output:** 66
 

@@ -14,21 +14,21 @@ Remarque : Cette question est la même que [724](https://leetcode.com/problems/
 
 ## Exemple
 
-**Example 1:**  
+**Exemple 1:**  
 **Input:** nums = [2,3,-1,<ins>8</ins>,4]  
 **Output:** 3  
 **Explication:**  
 La somme des nombres avant l'indice 3 est : 2 + 3 + -1 = 4  
 La somme des nombres après l'indice 3 est : 4 = 4
 
-**Example 2:**  
+**Exemple 2:**  
 **Input:** nums = [1,-1,<ins>4</ins>]  
 **Output:** 2  
 **Explication:**  
 La somme des nombres avant l'indice 2 est : 1 + -1 = 0  
 La somme des nombres après l'index 2 est : 0
 
-**Example 3:**  
+**Exemple 3:**  
 **Input:** nums = [2,5]  
 **Output:** -1  
 **Explication:**  

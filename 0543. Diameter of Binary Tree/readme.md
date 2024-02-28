@@ -10,18 +10,18 @@ La **longueur** d'un chemin entre deux nœuds est représentée par le nombre d'
 
 ## Exemple
 
-**Example 1:**  
+**Exemple 1:**  
 <img src="../imgs/0543-img1.png"/>  
 **Input:** root = [1,2,3,4,5]  
 **Output:** 3  
 **Explication:** 3 est la longueur du chemin [4,2,1,3] ou [5,2,1,3].
 
-**Example 2:**  
+**Exemple 2:**  
 <img src="../imgs/0543-img2.png"/>  
 **Input:** root = [1,2]  
 **Output:** 1
 
-**Example 3:**  
+**Exemple 3:**  
 <img src="../imgs/0543-img3.png"/>  
 **Input:** root = [4, -7, -3, null, null, -9, -3, 9, -7, -4, null, 6, null, -6, -6, null, null, 0, 6, 5, null, 9, null, null, -1, -4, null, null, null, -2]  
 **Output:** 8  

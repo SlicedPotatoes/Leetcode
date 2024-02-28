@@ -10,12 +10,12 @@ Renvoie l'année **la plus ancienne** avec la **population maximale**.
 
 ## Exemple
 
-**Example 1:**  
+**Exemple 1:**  
 **Input:** logs = [[1993,1999],[2000,2010]]  
 **Output:** 1993  
 **Explication:** La population maximale est de 1, et 1993 est la première année avec cette population.
 
-**Example 2:**  
+**Exemple 2:**  
 **Input:** logs = [[1950,1961],[1960,1971],[1970,1981]]  
 **Output:** 1960  
 **Explication:** La population maximale est de 2 personnes, et cela s'est produit dans les années 1960 et 1970.  

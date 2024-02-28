@@ -8,11 +8,11 @@ Vous disposez d’un long parterre de fleurs dans lequel certaines parcelles son
 
 ## Exemple
 
-**Example 1:**  
+**Exemple 1:**  
 **Input:** flowerbed = [1,0,0,0,1], n = 1  
 **Output:** true
 
-**Example 2:**  
+**Exemple 2:**  
 **Input:** flowerbed = [1,0,0,0,1], n = 2  
 **Output:** Output: false
 
