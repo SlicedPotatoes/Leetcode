@@ -21,7 +21,7 @@ Le nombre de noeuds dans l'arborescence est compris entre `[1, 104]`.
 
 ## Note personnelle
 
-Pour résoudre le problème consistant à trouver la valeur du nœud le plus profond à gauche, j'ai opté pour l'implémentation d'une recherche en largeur d'abord (BFS).
+Pour résoudre le problème consistant à trouver la valeur du noeud le plus profond à gauche, j'ai opté pour l'implémentation d'une recherche en largeur (BFS).
 
 Ma méthode utilise deux files : une principale et une temporaire pour déterminer à partir de quand je dois changer de profondeur. Lorsque la file principale est vide, j'échange les deux files pour continuer le processus.
 
