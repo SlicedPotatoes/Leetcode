@@ -16,7 +16,7 @@ class Solution
             vector<int8_t> elements = {2, 1, 4, 7, 4, 8, 3, 6, 4};
 
             // Parcourir le vecteur elements
-            for (int i = 0; i < 9; i++)
+            for (int i = 0; true; i++)
             {
                 int checkValue = ((abs(x) % mod) - sum) / (mod / 10); // Calculer la valeur de contrôle
                 // Vérifier si la valeur de contrôle est inférieure à l'élément actuel
