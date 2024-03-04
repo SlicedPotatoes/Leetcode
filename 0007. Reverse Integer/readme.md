@@ -31,7 +31,7 @@ Mon approche initiale pour résoudre ce problème est relativement simple. Tout 
 Pour vérifier si le nombre ne dépasse pas la taille d'un int32, je vérifie la longueur de `s`:
 
 - Si `x` est positif et que `s` a une longueur de `10` caractères, je la compare à la chaîne `"2147483647"`, qui représente la valeur maximale d'un int32.
-- Si `x` est négatif et que `s` a une longueur de `11` caractères (car il contient le signe `-`), je la compare à la chaîne `"-2147483648"`, qui représente la valeur minimale d'un int32.
+- Si `x` est négatif et que `s` a une longueur de `11` caractères (car il contient le signe `-`), je la compare à la chaîne `"-2147483647"`, qui représente la valeur minimale d'un int32.
 
 Pour effectuer cette comparaison, j'utilise simplement l'opérateur `>`, qui compare les caractères en utilisant leur valeur ASCII. Cette méthode fonctionne bien car `'0' < '1' = true`, ect.
 
