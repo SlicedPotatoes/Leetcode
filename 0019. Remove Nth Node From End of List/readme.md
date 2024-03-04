@@ -42,6 +42,7 @@ L'idée est d'itérer `n` fois sur `fast`. Si après cette opération `fast == n
 Sinon, nous continuons à itérer sur `fast` et `slow` simultanément jusqu'à ce que `fast` soit nul. Ainsi, `slow` aura la valeur du `n-1 ième` élément et il nous suffira de supprimer l'élément suivant puis retourner le début de notre liste.
 
 ```cpp
+//Crédit @DevOgabek sur Leetcode
 ListNode* removeNthFromEnd(ListNode* head, int n) {
   // Pointeur rapide pour parcourir la liste en avance
   ListNode* fast = head;
