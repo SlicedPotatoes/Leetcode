@@ -30,7 +30,7 @@ Le nombre de noeuds dans la liste est `sz`.
 
 ## Note personnelle
 
-Ma méthode repose sur l'utilisation d'une fonction récursive. En exploitant sa nature de pile, je suis capable de compter le nombre d'éléments depuis la fin. Cette fonction récursive parcourt la liste jusqu'à rencontrer le n-ième élément, puis procède à sa suppression en réaffectant les pointeurs.
+Ma méthode repose sur l'utilisation d'une fonction récursive. En exploitant sa nature de pile, je suis capable de compter le nombre d'éléments depuis la fin. Cette fonction récursive parcourt la liste jusqu'à rencontrer le `n ième` élément, puis procède à sa suppression en réaffectant les pointeurs.
 
 Si, à la fin de tous les appels récursifs la taille est `==n`, alors nous renvoyons `head->next`.
 
