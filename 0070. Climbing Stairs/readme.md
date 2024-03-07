@@ -41,7 +41,7 @@ Voici un schéma représentant les combinaisons possibles pour un escalier de 5 
 
 [1, 2, 3, 5, 8] Cela me fait penser à une suite assez connue en mathématiques, la **suite de Fibonacci**.
 
-Partant du principe qu'il s'agit de la suite de Fibonacci, j'ai opté pour une approche récursive utilisant le principe de la mémorisation pour éviter les calculs redondants.
+Partant du principe qu'il s'agit de la suite de Fibonacci, j'ai opté pour une approche récursive utilisant le principe de la mémoïsation pour éviter les calculs redondants.
 
 ```cpp
 // Utilisation d'une unordered_map pour stocker les résultats déjà calculés
