@@ -65,7 +65,7 @@ int climbStairs(int n) {
 }
 ```
 
-Cette approche a une complexité temporelle et spatiale de `O(n)`, grâce à l'utilisation de la mémorisation, sinon elle aurait une complexité temporelle exponentielle `O(2^n)`.
+Cette approche a une complexité temporelle et spatiale de `O(n)`, grâce à l'utilisation de la mémoïsation, sinon elle aurait une complexité temporelle exponentielle `O(2^n)`.
 
 Souhaitant approfondir mes connaissances en programmation dynamique, j'ai réalisé une version itérative stockant les résultats intermédiaires.
 
