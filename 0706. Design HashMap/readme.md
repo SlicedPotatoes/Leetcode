@@ -155,7 +155,7 @@ void remove(int key) {
 ```
 
 En conclusion, la complexité temporelle de `put`, `get` et `remove` peut être considérée comme `O(1)`, mais dans le pire des cas (lorsque toutes les clés ont le même hachage), la complexité temporelle est de `O(n)`.
-. La complexité spatiale est de `O(n)`.
+La complexité spatiale est de `O(n)`.
 
 Une amélioration qui pourrait être apportée serait de redimensionner la table une fois qu'un certain seuil d'occupation est atteint. L'idée serait de créer un nouveau vecteur en multipliant sa taille par 2, de parcourir chaque élément de la table pour recalculer leur hachage et les insérer au bon endroit, tout en veillant à libérer la mémoire de l'ancien vecteur.
 
