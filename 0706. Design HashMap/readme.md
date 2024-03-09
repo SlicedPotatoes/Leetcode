@@ -45,6 +45,9 @@ J'ai opté pour le hachage par chaînage semblable aux `unordered_map` de c++.
 
 L'idée principale consiste à utiliser un tableau de pointeurs, pointant vers des listes chaînées. À chaque opération de recherche, d'insertion ou de suppression, nous hashons la clé, et le résultat du hachage nous donne l'index de la liste chaînée correspondante. J'ai choisi arbitrairement une taille de vecteur de 1024.
 
+Schéma représentant une table de hachage par chaînage pour des mots avec leurs définition.
+<img src="../imgs/0706-img1.png"/>
+
 La structure des noeuds de ma liste chaînée est la suivante :
 
 ```cpp
