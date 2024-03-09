@@ -24,7 +24,7 @@ MyHashMap myHashMap = new MyHashMap();
 myHashMap.put(1, 1); // La map est maintenant [[1,1]]  
 myHashMap.put(2, 2); // La map est maintenant [[1,1], [2,2]]  
 myHashMap.get(1); // return 1  
-myHashMap.get(3); // return -1 (c'est-à-dire introuvable)
+myHashMap.get(3); // return -1 (c'est-à-dire introuvable)  
 myHashMap.put(2, 1); // La map est maintenant [[1,1], [2,1]] (mettre à jour la valeur existante)  
 myHashMap.get(2); // return 1  
 myHashMap.remove(2); // supprimer le mappage pour 2, La map est maintenant [[1,1]]  
