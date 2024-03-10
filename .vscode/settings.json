@@ -4,6 +4,8 @@
     "deque": "cpp",
     "vector": "cpp",
     "string_view": "cpp",
-    "random": "cpp"
+    "random": "cpp",
+    "string": "cpp",
+    "unordered_map": "cpp"
   }
 }
