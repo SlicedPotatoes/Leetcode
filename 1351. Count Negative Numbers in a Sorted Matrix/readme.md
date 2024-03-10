@@ -33,7 +33,7 @@ Cette approche présente une complexité temporelle de `O(m log n)` et une compl
 Cependant, l'énoncé exige une solution avec une complexité temporelle de `O(n + m)`.
 
 Pour répondre à cette exigence, j'ai envisagé d'exploiter le fait que les lignes **et** les colonnes sont triées par ordre décroissant. J'ai donc initié deux indices en haut à droite de ma grille: `i` , représentant l'indice de la ligne initialisé à `0` et `j`, représentant l'indice de la colonne initialisé à `grid[0].size() - 1`.
-J'utilisé une variable `count` pour suivre le nombre de nombres négatifs.
+J'utilise une variable `count` pour suivre le nombre de nombres négatifs.
 
 Le processus de parcours se déroule comme suit:
 
