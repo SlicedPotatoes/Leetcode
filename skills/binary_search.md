@@ -2,7 +2,7 @@
 
 ## Principe
 
-La **recherche binaire**, également connue sous le nom de **Recherche Dichotomique**, est un algorithme utilisé pour localiser la position d'un élément dans un tableau trié.
+La **Recherche Binaire**, également connue sous le nom de **Recherche Dichotomique**, est un algorithme utilisé pour localiser la position d'un élément dans un tableau trié.
 
 Son fonctionnement est le suivant:
 
