@@ -24,6 +24,6 @@ Exemple animé de l'algorithme de parcours en largeur:
 
 ### Difficile
 
-| Label                                                                                | Tags                                                                                                                                                                                       | Date |
-| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
-| [2092. Find All People With Secret](../2092.%20Find%20All%20People%20With%20Secret/) | [`Depth-First Search`](./skills/dfs.md), [`Breadth-First Search`](./skills/bfs.md), [`Union Find`](./skills/union_find.md), [`Graph`](./skills/graph.md), [`Sorting`](./skills/sorting.md) |
+| Label                                                                                | Tags                                                                                                                                                                                       | Date       |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
+| [2092. Find All People With Secret](../2092.%20Find%20All%20People%20With%20Secret/) | [`Depth-First Search`](./skills/dfs.md), [`Breadth-First Search`](./skills/bfs.md), [`Union Find`](./skills/union_find.md), [`Graph`](./skills/graph.md), [`Sorting`](./skills/sorting.md) | 24-02-2024 |
