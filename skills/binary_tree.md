@@ -2,7 +2,7 @@
 
 ## Principe
 
-Un arbre binaire est une structure de données composée de noeuds. Chaque noeud peut avoir au plus deux enfants, appelés noeuds gauche et droit. Ces noeuds sont organisés de manière hiérarchique, avec un noeud spécial appelé racine à partir duquel tout commence.
+Un **Arbre Binaire** est une structure de données composée de noeuds. Chaque noeud peut avoir au plus deux enfants, appelés noeuds gauche et droit. Ces noeuds sont organisés de manière hiérarchique, avec un noeud spécial appelé racine à partir duquel tout commence.
 Les noeuds sans enfant sont appelés feuilles. Les arbres binaires sont largement utilisés en informatique pour représenter et organiser des données de manière efficace.
 
 Un exemple simple d'arbre binaire:  
