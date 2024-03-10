@@ -2,7 +2,12 @@
 
 ## Principe
 
-Un tableau est une structure de données permettant de stocker des éléments. Ils ont généralement une taille définie, et les éléments peuvent être récupérés de manière constante grâce à leur position.
+Un tableau est une structure de données permettant de stocker des éléments. Ils ont généralement une taille définie et les éléments peuvent être récupérés de manière constante en fonction de leur position dans le tableau.
+
+Un tableau peut avoir plusieurs dimensions si ses éléments sont eux-mêmes des tableaux.
+
+Illustration d'un tableau a une dimension:  
+<img src="../imgs/skills/array-1.png"/>
 
 ### Facile
 
