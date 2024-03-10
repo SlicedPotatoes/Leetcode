@@ -2,7 +2,7 @@
 
 ## Principe
 
-Un algorithme greedy ou glouton est un algorithme qui suit le principe de réaliser, étape par étape, un choix optimal local, afin d'obtenir un résultat optimal global.
+Un algorithme **Greedy** ou **Glouton** est un algorithme qui suit le principe de réaliser, étape par étape, un choix optimal local, afin d'obtenir un résultat optimal global.
 
 Par exemple, dans le problème du rendu de monnaie (donner une somme avec le moins possible de pièces), l'algorithme consistant à répéter le choix de la pièce de plus grande valeur qui ne dépasse pas la somme restante est un algorithme glouton.  
 Suivant le système de pièces, l'algorithme glouton est optimal ou pas.  
