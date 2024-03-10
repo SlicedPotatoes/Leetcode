@@ -1,6 +1,6 @@
 # Graph
 
-Un graphe est une structure de données qui représente des relations entre des objets. Il est composé de noeuds (ou sommets) qui représentent des entités, et des arêtes qui symbolisant les connexions entre ces entités. Les graphes servent à modéliser divers problèmes comme les réseaux sociaux, les itinéraires, les circuits électroniques, ect.
+Un **Graphe** est une structure de données qui représente des relations entre des objets. Il est composé de noeuds (ou sommets) qui représentent des entités, et des arêtes qui symbolisant les connexions entre ces entités. Les graphes servent à modéliser divers problèmes comme les réseaux sociaux, les itinéraires, les circuits électroniques, ect.
 
 Illustration d'un graphe:  
 <img src="../imgs/skills/graph-1.png"/>
