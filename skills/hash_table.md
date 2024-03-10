@@ -2,7 +2,7 @@
 
 ## Principe
 
-Une table de hachage une structure de données qui permet une association clé-valeur. Son but principal est de permettre de retrouver une clé donnée très rapidement, en la cherchant à un emplacement de la table correspondant au résultat d'une fonction de hachage calculée en O(1). Cela constitue un gain de temps très important pour les grosses tables, lors d'une recherche ou d'un besoin d'accès aux données en utilisant la clé définie.
+Une **Table de Hachage** une structure de données qui permet une association clé-valeur. Son but principal est de permettre de retrouver une clé donnée très rapidement, en la cherchant à un emplacement de la table correspondant au résultat d'une fonction de hachage calculée en O(1). Cela constitue un gain de temps très important pour les grosses tables, lors d'une recherche ou d'un besoin d'accès aux données en utilisant la clé définie.
 
 Un annuaire représenté comme une table de hachage. La fonction de hachage transforme les clés en valeurs de hachage indexant les éléments de la table composés de paires clé-valeur.
 <img src="../imgs/skills/hash_table-1.png"/>
