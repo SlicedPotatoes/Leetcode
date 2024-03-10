@@ -2,7 +2,7 @@
 
 ## Principe
 
-Depth-First Search (DFS) ou Parcours en profondeur, est un algorithme utilisé pour parcourir ou rechercher des données dans un graphe ou un arbre.
+**Depth-First Search** (**DFS**) ou **Parcours en profondeur**, est un algorithme utilisé pour parcourir ou rechercher des données dans un graphe ou un arbre.
 
 L'idée principale est de visiter le plus profondément possible le long d'une branche avant de revenir en arrière pour explorer d'autres branches.
 
