@@ -26,14 +26,14 @@ Pourriez-vous trouver une solution en `O(n + m)` ?
 
 ## Note personnelle
 
-Pour aborder ce problème, j'ai initialement opté pour une méthode itérative qui parcourt chaque ligne de la matrice. Pour chaque ligne, j'ai effectué une recherche binaire, avec la particularité de rechercher des nombres `< 0`, au lieu d'une cible spécifique. Une fois que j'ai trouvé l'index du plus petit nombre `< 0`, je renvoie `row.size() - index`, qui représente le nombre d'éléments négatifs dans cette ligne.
+Pour aborder ce problème, j'ai initialement opté pour une méthode itérative qui parcourt chaque ligne de la matrice. Pour chaque ligne, j'effectue une recherche binaire, avec la particularité de rechercher des nombres `< 0`, au lieu d'une cible spécifique. Une fois que j'ai trouvé l'index du plus petit nombre `< 0`, je renvoie `row.size() - index`, qui représente le nombre d'éléments négatifs dans cette ligne.
 
 Cette approche présente une complexité temporelle de `O(m log n)` et une complexité spatiale de `O(1)`.
 
 Cependant, l'énoncé exige une solution avec une complexité temporelle de `O(n + m)`.
 
-Pour répondre à cette exigence, j'ai envisagé d'exploiter le fait que les lignes **et** les colonnes sont triées par ordre décroissant. J'ai donc initié deux indices en haut à droite de ma grille: `i` , représentant l'indice de la ligne initialisé à `0` et `j` , représentant l'indice de la colonne initialisé à `grid[0].size() - 1`.
-J'ai utilisé une variable `count` pour suivre le nombre de nombres négatifs.
+Pour répondre à cette exigence, j'ai envisagé d'exploiter le fait que les lignes **et** les colonnes sont triées par ordre décroissant. J'ai donc initié deux indices en haut à droite de ma grille: `i` , représentant l'indice de la ligne initialisé à `0` et `j`, représentant l'indice de la colonne initialisé à `grid[0].size() - 1`.
+J'utilisé une variable `count` pour suivre le nombre de nombres négatifs.
 
 Le processus de parcours se déroule comme suit:
 
