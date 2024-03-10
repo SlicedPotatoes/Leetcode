@@ -2,7 +2,7 @@
 
 ## Principe
 
-Breadth-First Search (BFS) ou Parcours en largeur, est un algorithme utilisé pour parcourir ou rechercher des données dans un graphe ou un arbre.
+**Breadth-First Search** (**BFS**) ou **Parcours en largeur**, est un algorithme utilisé pour parcourir ou rechercher des données dans un graphe ou un arbre.
 
 L'idée principale est de visiter tout les voisins d'un noeud avant de passer aux voisins des voisins, cela signifie qu'il explore d'abord tous les noeuds à un niveau donnée avant de passer au niveau suivant.
 
