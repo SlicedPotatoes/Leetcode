@@ -35,6 +35,7 @@ Chaque catégorie redirigera vers un fichier readme comprenant la liste des exer
 - [Binary Tree](./skills/binary_tree.md)
 - [Greedy](./skills/greedy.md)
 - [Depth-First Search](./skills/dfs.md)
+- [Breadth-First Search](./skills/bfs.md)
 - [Design](./skills/design.md)
 - [Prefix Sum](./skills/prefix_sum.md)
 - [Graph](./skills/graph.md)
