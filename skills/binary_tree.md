@@ -20,7 +20,7 @@ Un exemple simple d'arbre binaire:
 | Label                                                                               | Tags                                                                                                                                                     | Date       |
 | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [513. Find Bottom Left Tree Value](../0513.%20Find%20Bottom%20Left%20Tree%20Value/) | [`Tree`](./skills/tree.md), [`Depth-First Search`](./skills/dfs.md), [`Breadth-First Search`](./skills/bfs.md), [`Binary Tree`](./skills/binary_tree.md) | 28-02-2024 |
-| [1609. Even Odd Tree](../1609.%20Even%20Odd%20Tree/)                                | [`Tree`](./skills/tree.md), [`Breadth-First Search`](./skills/bfs.md), [`Binary Tree`](./skills/binary_tree.md)                                          |
+| [1609. Even Odd Tree](../1609.%20Even%20Odd%20Tree/)                                | [`Tree`](./skills/tree.md), [`Breadth-First Search`](./skills/bfs.md), [`Binary Tree`](./skills/binary_tree.md)                                          | 29-02-2024 |
 
 ### Difficile
 
