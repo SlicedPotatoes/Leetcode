@@ -11,17 +11,17 @@ Dans le système de pièces (1, 3, 4), l'algorithme glouton n'est pas optimal, c
 
 ### Facile
 
-| Label                                                                          | Tags                                                                  | Date       |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------------------- | ---------- |
-| [605. Can Place Flowers](../0605.%20Can%20Place%20Flowers/)                    | [`Array`](./array.md), [`Greedy`](./greedy.md)                        | 20-02-2024 |
-| [2864. Maximum Odd Binary Number](../2864.%20Maximum%20Odd%20Binary%20Number/) | [`Math`](./math.md), [`String`](./string.md), [`Greedy`](./greedy.md) | 01-03-2024 |
+| Label                                                                                   | Tags                                                                  | Date       |
+| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ---------- |
+| [605. Can Place Flowers](../Probleme/0605.%20Can%20Place%20Flowers/)                    | [`Array`](./array.md), [`Greedy`](./greedy.md)                        | 20-02-2024 |
+| [2864. Maximum Odd Binary Number](../Probleme/2864.%20Maximum%20Odd%20Binary%20Number/) | [`Math`](./math.md), [`String`](./string.md), [`Greedy`](./greedy.md) | 01-03-2024 |
 
 ### Moyen
 
-| Label                                                                                 | Tags                                                                                                           | Date       |
-| ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ---------- |
-| [334. Increasing Triplet Subsequence](../0334.%20Increasing%20Triplet%20Subsequence/) | [`Array`](./array.md), [`Greedy`](./greedy.md)                                                                 | 26-02-2024 |
-| [948. Bag of Tokens](../0948.%20Bag%20of%20Tokens/)                                   | [`Array`](./array.md), [`Greedy`](./greedy.md), [`Two Pointers`](./two_pointers.md), [`Sorting`](./sorting.md) | 04-03-2024 |
+| Label                                                                                          | Tags                                                                                                           | Date       |
+| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ---------- |
+| [334. Increasing Triplet Subsequence](../Probleme/0334.%20Increasing%20Triplet%20Subsequence/) | [`Array`](./array.md), [`Greedy`](./greedy.md)                                                                 | 26-02-2024 |
+| [948. Bag of Tokens](../Probleme/0948.%20Bag%20of%20Tokens/)                                   | [`Array`](./array.md), [`Greedy`](./greedy.md), [`Two Pointers`](./two_pointers.md), [`Sorting`](./sorting.md) | 04-03-2024 |
 
 ### Difficile
 

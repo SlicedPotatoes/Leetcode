@@ -6,9 +6,9 @@ Une **Matrice** est essentiellement un tableau de nombres organisé en lignes et
 
 ### Facile
 
-| Label                                                                                                                | Tags                                                                                  | Date       |
-| -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------- |
-| [1351. Count Negative Numbers in a Sorted Matrix](../1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) | [`Array`](./array.md), [`Binary Search`](./binary_search.md), [`Matrix`](./matrix.md) | 09-03-2024 |
+| Label                                                                                                                         | Tags                                                                                  | Date       |
+| ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------- |
+| [1351. Count Negative Numbers in a Sorted Matrix](../Probleme/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) | [`Array`](./array.md), [`Binary Search`](./binary_search.md), [`Matrix`](./matrix.md) | 09-03-2024 |
 
 ### Moyen
 

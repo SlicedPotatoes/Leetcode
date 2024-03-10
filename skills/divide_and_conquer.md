@@ -19,6 +19,6 @@ Trois étapes (diviser, régner, combiner) illustrées avec l'algorithme du tri 
 
 ### Difficile
 
-| Label                                                                             | Tags                                                                                                          | Date       |
-| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ---------- |
-| [4. Median of Two Sorted Arrays](../0004.%20Median%20of%20Two%20Sorted%20Arrays/) | [`Array`](./array.md), [`Binary Search`](./binary_search.md), [`Divide and Conquer`](./divide_and_conquer.md) | 19-02-2024 |
+| Label                                                                                      | Tags                                                                                                          | Date       |
+| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | ---------- |
+| [4. Median of Two Sorted Arrays](../Probleme/0004.%20Median%20of%20Two%20Sorted%20Arrays/) | [`Array`](./array.md), [`Binary Search`](./binary_search.md), [`Divide and Conquer`](./divide_and_conquer.md) | 19-02-2024 |

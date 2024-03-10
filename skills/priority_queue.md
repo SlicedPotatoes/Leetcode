@@ -11,9 +11,9 @@ Une **Priority Queue** ou **File de Priorité** est une structure de données qu
 
 ### Moyen
 
-| Label                                                                                                                            | Tags                                                                                                   | Date       |
-| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------- |
-| [3066. Minimum Operations to Exceed Threshold Value II](../3066.%20Minimum%20Operations%20to%20Exceed%20Threshold%20Value%20II/) | [`Array`](./array.md), [`Heap (Priority Queue)`](./priority_queue.md), [`Simulation`](./simulation.md) | 02-03-2024 |
+| Label                                                                                                                                     | Tags                                                                                                   | Date       |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------- |
+| [3066. Minimum Operations to Exceed Threshold Value II](../Probleme/3066.%20Minimum%20Operations%20to%20Exceed%20Threshold%20Value%20II/) | [`Array`](./array.md), [`Heap (Priority Queue)`](./priority_queue.md), [`Simulation`](./simulation.md) | 02-03-2024 |
 
 ### Difficile
 
