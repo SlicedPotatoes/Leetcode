@@ -45,5 +45,6 @@ Chaque catégorie redirigera vers un fichier readme comprenant la liste des exer
 ### Avancée
 
 - [Dynamic Programming](./skills/dp.md)
+- [Memoization](./skills/memoization.md)
 - [Divide and Conquer](./skills/divide_and_conquer.md)
 - [Union Find](./skills/union_find.md)
