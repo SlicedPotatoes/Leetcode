@@ -38,6 +38,8 @@ Chaque catégorie redirigera vers un fichier readme comprenant la liste des exer
 - [Design](./skills/design.md)
 - [Prefix Sum](./skills/prefix_sum.md)
 - [Graph](./skills/graph.md)
+- [Bit Manipulation](./skills/bit_manipulation.md)
+- [Sliding Window](./skills/sliding_window.md)
 
 ### Avancée
 
