@@ -18,10 +18,10 @@ Il existe également des opérations de décalage:
 
 ### Facile
 
-| Label                                             | Tags                                                                                                                                                   | Date       |
-| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
-| [67. Add Binary](../0067.%20Add%20Binary/)        | [`Math`](./skills/math.md), [`String`](./skills/string.md), [`Bit Manipulation`](./skills/bit_manipulation.md), [`Simulation`](./skills/simulation.md) | 04-03-2024 |
-| [338. Counting Bits](../0338.%20Counting%20Bits/) | [`Dynamic Programming`](./skills/dp.md), [`Bit Manipulation`](./skills/bit_manipulation.md)                                                            | 08-03-2024 |
+| Label                                             | Tags                                                                                                                       | Date       |
+| ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [67. Add Binary](../0067.%20Add%20Binary/)        | [`Math`](./math.md), [`String`](./string.md), [`Bit Manipulation`](./bit_manipulation.md), [`Simulation`](./simulation.md) | 04-03-2024 |
+| [338. Counting Bits](../0338.%20Counting%20Bits/) | [`Dynamic Programming`](./dp.md), [`Bit Manipulation`](./bit_manipulation.md)                                              | 08-03-2024 |
 
 ### Moyen
 
