@@ -1,4 +1,4 @@
-# 513. Find Bottom Left Tree Value
+# Title
 
 ## Énoncé
 
@@ -11,15 +11,14 @@
 
 **Exemple 2:**  
 **Input:**  
-**Output:**
+**Output:**  
+**Explication:**
 
 ## Contraintes
 
-`2 <= nums.length <= 104`
-
-Une seule réponse valide existe.
+`2 <= nums.length <= 10^4`
 
 ## Note personnelle
 
-<img src="../imgs/0003-runtime.png"/>
-<img src="../imgs/0003-memory.png"/>
+<img src="./imgs/runtime.png"/>
+<img src="./imgs/memory.png"/>
