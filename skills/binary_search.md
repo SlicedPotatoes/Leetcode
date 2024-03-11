@@ -26,8 +26,9 @@ Visualisation d'une recherche dichotomique, où 4 est la valeur recherchée:
 
 ### Moyen
 
-| Label | Tags | Date |
-| ----- | ---- | ---- |
+| Label                                                                                                                                                         | Tags                                                         | Date       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ---------- |
+| [34. Find First and Last Position of Element in Sorted Array](../Probleme/0034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/) | [`Array`](./array.md), [`Binary Search`](./binary_search.md) | 09-03-2024 |
 
 ### Difficile
 

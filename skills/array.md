@@ -45,12 +45,13 @@ Illustration d'un tableau a une dimension:
 
 ### Moyen
 
-| Label                                                                                                                                     | Tags                                                                                                           | Date       |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ---------- |
-| [238. Product of Array Except Self](../Probleme/0238.%20Product%20of%20Array%20Except%20Self/)                                            | [`Array`](./array.md), [`Prefix Sum`](./prefix_sum.md)                                                         | 22-02-2024 |
-| [334. Increasing Triplet Subsequence](../Probleme/0334.%20Increasing%20Triplet%20Subsequence/)                                            | [`Array`](./array.md), [`Greedy`](./greedy.md)                                                                 | 26-02-2024 |
-| [948. Bag of Tokens](../Probleme/0948.%20Bag%20of%20Tokens/)                                                                              | [`Array`](./array.md), [`Greedy`](./greedy.md), [`Two Pointers`](./two_pointers.md), [`Sorting`](./sorting.md) | 04-03-2024 |
-| [3066. Minimum Operations to Exceed Threshold Value II](../Probleme/3066.%20Minimum%20Operations%20to%20Exceed%20Threshold%20Value%20II/) | [`Array`](./array.md), [`Heap (Priority Queue)`](./priority_queue.md), [`Simulation`](./simulation.md)         | 02-03-2024 |
+| Label                                                                                                                                                         | Tags                                                                                                           | Date       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ---------- |
+| [34. Find First and Last Position of Element in Sorted Array](../Probleme/0034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/) | [`Array`](./array.md), [`Binary Search`](./binary_search.md)                                                   | 09-03-2024 |
+| [238. Product of Array Except Self](../Probleme/0238.%20Product%20of%20Array%20Except%20Self/)                                                                | [`Array`](./array.md), [`Prefix Sum`](./prefix_sum.md)                                                         | 22-02-2024 |
+| [334. Increasing Triplet Subsequence](../Probleme/0334.%20Increasing%20Triplet%20Subsequence/)                                                                | [`Array`](./array.md), [`Greedy`](./greedy.md)                                                                 | 26-02-2024 |
+| [948. Bag of Tokens](../Probleme/0948.%20Bag%20of%20Tokens/)                                                                                                  | [`Array`](./array.md), [`Greedy`](./greedy.md), [`Two Pointers`](./two_pointers.md), [`Sorting`](./sorting.md) | 04-03-2024 |
+| [3066. Minimum Operations to Exceed Threshold Value II](../Probleme/3066.%20Minimum%20Operations%20to%20Exceed%20Threshold%20Value%20II/)                     | [`Array`](./array.md), [`Heap (Priority Queue)`](./priority_queue.md), [`Simulation`](./simulation.md)         | 02-03-2024 |
 
 ### Difficile
 
