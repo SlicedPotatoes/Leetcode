@@ -10,9 +10,10 @@
 
 ### Moyen
 
-| Label                                                        | Tags                                                                                                           | Date       |
-| ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | ---------- |
-| [948. Bag of Tokens](../Probleme/0948.%20Bag%20of%20Tokens/) | [`Array`](./array.md), [`Greedy`](./greedy.md), [`Two Pointers`](./two_pointers.md), [`Sorting`](./sorting.md) | 04-03-2024 |
+| Label                                                                  | Tags                                                                                                           | Date       |
+| ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ---------- |
+| [791. Custom Sort String](../Probleme/0791.%20Custom%20Sort%20String/) | [`Hash Table`](./hash_table.md), [`String`](./string.md), [`Sorting`](./sorting.md)                            | 11-03-2024 |
+| [948. Bag of Tokens](../Probleme/0948.%20Bag%20of%20Tokens/)           | [`Array`](./array.md), [`Greedy`](./greedy.md), [`Two Pointers`](./two_pointers.md), [`Sorting`](./sorting.md) | 04-03-2024 |
 
 ### Difficile
 

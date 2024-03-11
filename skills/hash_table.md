@@ -25,6 +25,7 @@ Un annuaire représenté comme une table de hachage. La fonction de hachage tran
 | Label                                                                                                                            | Tags                                                                                              | Date       |
 | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------- |
 | [3. Longest Substring Without Repeating Characters](../Probleme/0003.%20Longest%20Substring%20Without%20Repeating%20Characters/) | [`String`](./string.md), [`Hash Table`](./hash_table.md), [`Sliding Window`](./sliding_window.md) | 18-02-2024 |
+| [791. Custom Sort String](../Probleme/0791.%20Custom%20Sort%20String/)                                                           | [`Hash Table`](./hash_table.md), [`String`](./string.md), [`Sorting`](./sorting.md)               | 11-03-2024 |
 
 ### Difficile
 

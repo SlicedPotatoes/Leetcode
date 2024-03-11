@@ -28,6 +28,7 @@ Illustration d'une chaîne de caractères:
 | [5. Longest Palindromic Substring](../Probleme/0005.%20Longest%20Palindromic%20Substring/)                                                            | [`String`](./string.md), [`Dynamic Programming`](./dp.md)                                         | 01-03-2024 |
 | [6. Zigzag Conversion](../Probleme/0006.%20Zigzag%20Conversion/)                                                                                      | [`String`](./string.md)                                                                           | 03-03-2024 |
 | [8. String to Integer (atoi)](<../Probleme/0008.%20String%20to%20Integer%20(atoi)/>)                                                                  | [`String`](./string.md)                                                                           | 05-03-2024 |
+| [791. Custom Sort String](../Probleme/0791.%20Custom%20Sort%20String/)                                                                                | [`Hash Table`](./hash_table.md), [`String`](./string.md), [`Sorting`](./sorting.md)               | 11-03-2024 |
 | [1750. Minimum Length of String After Deleting Similar Ends](../Probleme/1750.%20Minimum%20Length%20of%20String%20After%20Deleting%20Similar%20Ends/) | [`String`](./string.md), [`Two Pointers`](./two_pointers.md)                                      | 05-03-2024 |
 
 ### Difficile
