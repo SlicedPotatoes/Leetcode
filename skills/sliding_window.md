@@ -6,8 +6,9 @@
 
 ### Facile
 
-| Label | Tags | Date |
-| ----- | ---- | ---- |
+| Label                                                                                    | Tags                                                           | Date       |
+| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ---------- |
+| [643. Maximum Average Subarray I](../Probleme/0643.%20Maximum%20Average%20Subarray%20I/) | [`Array`](./array.md), [`Sliding Window`](./sliding_window.md) | 13-03-2024 |
 
 ### Moyen
 
