@@ -12,9 +12,10 @@
 
 ### Moyen
 
-| Label                                                                                                                            | Tags                                                                                              | Date       |
-| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------- |
-| [3. Longest Substring Without Repeating Characters](../Probleme/0003.%20Longest%20Substring%20Without%20Repeating%20Characters/) | [`String`](./string.md), [`Hash Table`](./hash_table.md), [`Sliding Window`](./sliding_window.md) | 18-02-2024 |
+| Label                                                                                                                                                           | Tags                                                                                              | Date       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------- |
+| [3. Longest Substring Without Repeating Characters](../Probleme/0003.%20Longest%20Substring%20Without%20Repeating%20Characters/)                                | [`String`](./string.md), [`Hash Table`](./hash_table.md), [`Sliding Window`](./sliding_window.md) | 18-02-2024 |
+| [1456. Maximum Number of Vowels in a Substring of Given Length](../Probleme/1456.%20Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/) | [`String`](./string.md), [`Sliding Window`](./sliding_window.md)                                  | 13-03-2024 |
 
 ### Difficile
 
