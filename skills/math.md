@@ -11,6 +11,7 @@
 | [509. Fibonacci Number](../Probleme/0509.%20Fibonacci%20Number/)                                            | [`Math`](./math.md), [`Dynamic Programming`](./dp.md), [`Memoization`](./memoization.md), [`Recursion`](./recursion.md)    | 08-03-2024 |
 | [1071. Greatest Common Divisor of Strings](../Probleme/1071.%20Greatest%20Common%20Divisor%20of%20Strings/) | [`Math`](./math.md), [`String`](./string.md)                                                                               | 20-02-2024 |
 | [1588. Sum of All Odd Length Subarrays](../Probleme/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays/)     | [`Array`](./array.md), [`Prefix Sum`](./prefix_sum.md), [`Math`](./math.md)                                                | 27-02-2024 |
+| [2485. Find the Pivot Integer](../Probleme/2485.%20Find%20the%20Pivot%20Integer/)                           | [`Prefix Sum`](./prefix_sum.md), [`Math`](./math.md)                                                                       | 13-03-2024 |
 | [2864. Maximum Odd Binary Number](../Probleme/2864.%20Maximum%20Odd%20Binary%20Number/)                     | [`Math`](./math.md), [`String`](./string.md), [`Greedy`](./greedy.md)                                                      | 01-03-2024 |
 
 ### Moyen
