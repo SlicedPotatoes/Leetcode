@@ -16,8 +16,9 @@ Grille de Sukodu résolue grâce au retour sur trace:
 
 ### Moyen
 
-| Label | Tags | Date |
-| ----- | ---- | ---- |
+| Label                                                                                                             | Tags                                                                                          | Date       |
+| ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------- |
+| [17. Letter Combinations of a Phone Number](../Probleme/0017.%20Letter%20Combinations%20of%20a%20Phone%20Number/) | [`Hash Table`](./hash_table.md), [`String`](./string.md), [`Backtracking`](./backtracking.md) | 14-03-2024 |
 
 ### Difficile
 
