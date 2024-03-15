@@ -49,3 +49,4 @@ Chaque catégorie redirigera vers un fichier readme comprenant la liste des exer
 - [Memoization](./skills/memoization.md)
 - [Divide and Conquer](./skills/divide_and_conquer.md)
 - [Union Find](./skills/union_find.md)
+- [Backtracking](./skills/backtracking.md)
