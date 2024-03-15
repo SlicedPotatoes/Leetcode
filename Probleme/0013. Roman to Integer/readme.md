@@ -61,5 +61,7 @@ Mon approche est plutot simple, j'itére sur les de `s` jusqu'a `s.size() - 1` e
 J'ai testé deux méthodes pour obtenir les valeurs numériques d'un caractère d'un chiffre romain :
 La première méthode utilisait une hashmap, tandis que la seconde utilisait un switch. D'après mes observations, celle avec le switch était plus efficace en raison du faible nombre d'éléments. Elle présentait à peu près la même efficacité temporelle mais un gain significatif de mémoire.
 
+Cette approche présente une complexité temporelle de `O(n)` et une complexité spatiale de `O(1)`.
+
 <img src="./imgs/runtime.png"/>
 <img src="./imgs/memory.png"/>
