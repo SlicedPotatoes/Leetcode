@@ -1,11 +1,11 @@
-# Stack
+# Queue
 
 ## Principe
 
-Un **Stack** ou une **Pile** est une structure de données fondée sur le principe "Dernier arrivé, premier sorti" (LIFO pour "Last In, First Out").
+Une **Queue** ou une **File** est une structure de données fondée sur le principe "Premier arrivé, premier sorti" (FIFO pour "First In, First Out").
 
-Illustration de l'utilisation d'une pile:  
-<img src="../imgs/skills/stack-1.png"/>
+Illustration de l'utilisation d'une file:  
+<img src="../imgs/skills/queue-1.png"/>
 
 ### Facile
 
@@ -15,9 +15,8 @@ Illustration de l'utilisation d'une pile:
 
 ### Moyen
 
-| Label                                              | Tags                                           | Date       |
-| -------------------------------------------------- | ---------------------------------------------- | ---------- |
-| [155. Min Stack](../Probleme/0155.%20Min%20Stack/) | [`Stack`](./stack.md), [`Design`](./design.md) | 11-03-2024 |
+| Label | Tags | Date |
+| ----- | ---- | ---- |
 
 ### Difficile
 
