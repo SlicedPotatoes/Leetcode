@@ -6,10 +6,11 @@ la **Recursion** est un concept où une fonction s'appelle elle-même pour réso
 
 ### Facile
 
-| Label                                                                    | Tags                                                                                                                    | Date       |
-| ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [206. Reverse Linked List](../Probleme/0206.%20Reverse%20Linked%20List/) | [`Linked List`](./linked_list.md), [`Recursion`](./recursion.md)                                                        | 09-03-2024 |
-| [509. Fibonacci Number](../Probleme/0509.%20Fibonacci%20Number/)         | [`Math`](./math.md), [`Dynamic Programming`](./dp.md), [`Memoization`](./memoization.md), [`Recursion`](./recursion.md) | 08-03-2024 |
+| Label                                                                           | Tags                                                                                                                    | Date       |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [21. Merge Two Sorted Lists](../Probleme/0021.%20Merge%20Two%20Sorted%20Lists/) | [`Linked List`](./linked_list.md), [`Recursion`](./recursion.md)                                                        | 15-03-2024 |
+| [206. Reverse Linked List](../Probleme/0206.%20Reverse%20Linked%20List/)        | [`Linked List`](./linked_list.md), [`Recursion`](./recursion.md)                                                        | 09-03-2024 |
+| [509. Fibonacci Number](../Probleme/0509.%20Fibonacci%20Number/)                | [`Math`](./math.md), [`Dynamic Programming`](./dp.md), [`Memoization`](./memoization.md), [`Recursion`](./recursion.md) | 08-03-2024 |
 
 ### Moyen
 

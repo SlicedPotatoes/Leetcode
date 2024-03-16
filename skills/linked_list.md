@@ -11,6 +11,7 @@ Une liste chaînée, composée de trois éléments ayant respectivement la valeu
 
 | Label                                                                                    | Tags                                                                                                                                | Date       |
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [21. Merge Two Sorted Lists](../Probleme/0021.%20Merge%20Two%20Sorted%20Lists/)          | [`Linked List`](./linked_list.md), [`Recursion`](./recursion.md)                                                                    | 15-03-2024 |
 | [141. Linked List Cycle](../Probleme/0141.%20Linked%20List%20Cycle/)                     | [`Hash Table`](./hash_table.md), [`Linked List`](./linked_list.md), [`Two Pointers`](./two_pointers.md)                             | 06-03-2024 |
 | [206. Reverse Linked List](../Probleme/0206.%20Reverse%20Linked%20List/)                 | [`Linked List`](./linked_list.md), [`Recursion`](./recursion.md)                                                                    | 09-03-2024 |
 | [706. Design HashMap](../Probleme/0706.%20Design%20HashMap/)                             | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`Linked List`](./linked_list.md), [`Design`](./design.md), `Hash Function` | 09-03-2024 |
