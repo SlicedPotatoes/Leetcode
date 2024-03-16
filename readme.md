@@ -25,6 +25,7 @@ Chaque catégorie redirigera vers un fichier readme comprenant la liste des exer
 - [Matrix](./skills/matrix.md)
 - [Heap (Priority Queue)](./skills/priority_queue.md)
 - [Stack](./skills/stack.md)
+- [Queue](./skills/queue.md)
 
 ### Intermédiaire
 
