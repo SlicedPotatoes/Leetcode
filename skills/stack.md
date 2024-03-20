@@ -15,9 +15,10 @@ Illustration de l'utilisation d'une pile:
 
 ### Moyen
 
-| Label                                              | Tags                                           | Date       |
-| -------------------------------------------------- | ---------------------------------------------- | ---------- |
-| [155. Min Stack](../Probleme/0155.%20Min%20Stack/) | [`Stack`](./stack.md), [`Design`](./design.md) | 11-03-2024 |
+| Label                                                                                           | Tags                                                                            | Date       |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------- |
+| [155. Min Stack](../Probleme/0155.%20Min%20Stack/)                                              | [`Stack`](./stack.md), [`Design`](./design.md)                                  | 11-03-2024 |
+| [2390. Removing Stars From a String](../Probleme/2390.%20Removing%20Stars%20From%20a%20String/) | [`String`](./string.md), [`Stack`](./stack.md), [`Simulation`](./simulation.md) | 15-03-2024 |
 
 ### Difficile
 

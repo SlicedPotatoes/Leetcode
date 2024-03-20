@@ -36,6 +36,7 @@ Illustration d'une chaîne de caractères:
 | [791. Custom Sort String](../Probleme/0791.%20Custom%20Sort%20String/)                                                                                          | [`Hash Table`](./hash_table.md), [`String`](./string.md), [`Sorting`](./sorting.md)               | 11-03-2024 |
 | [1456. Maximum Number of Vowels in a Substring of Given Length](../Probleme/1456.%20Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/) | [`String`](./string.md), [`Sliding Window`](./sliding_window.md)                                  | 13-03-2024 |
 | [1750. Minimum Length of String After Deleting Similar Ends](../Probleme/1750.%20Minimum%20Length%20of%20String%20After%20Deleting%20Similar%20Ends/)           | [`String`](./string.md), [`Two Pointers`](./two_pointers.md)                                      | 05-03-2024 |
+| [2390. Removing Stars From a String](../Probleme/2390.%20Removing%20Stars%20From%20a%20String/)                                                                 | [`String`](./string.md), [`Stack`](./stack.md), [`Simulation`](./simulation.md)                   | 15-03-2024 |
 
 ### Difficile
 
