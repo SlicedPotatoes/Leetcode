@@ -46,6 +46,7 @@ Illustration d'un tableau a une dimension:
 | [3005. Count Elements With Maximum Frequency](../Probleme/3005.%20Count%20Elements%20With%20Maximum%20Frequency/)                                 | [`Array`](./array.md), [`Hash Table`](./hash_table.md), `Counting`                                                                  | 08-03-2024 |
 | [3028. Ant on the Boundary](../Probleme/3028.%20Ant%20on%20the%20Boundary/)                                                                       | [`Array`](./array.md), [`Prefix Sum`](./prefix_sum.md), [`Simulation`](./simulation.md)                                             | 26-02-2024 |
 | [3065. Minimum Operations to Exceed Threshold Value I](../Probleme/3065.%20Minimum%20Operations%20to%20Exceed%20Threshold%20Value%20I/)           | [`Array`](./array.md)                                                                                                               | 02-03-2024 |
+| [3079. Find the Sum of Encrypted Integers](../Probleme/3079.%20Find%20the%20Sum%20of%20Encrypted%20Integers/)                                     | [`Array`](./array.md), [`Math`](./math.md)                                                                                          | 16-03-2024 |
 
 ### Moyen
 
