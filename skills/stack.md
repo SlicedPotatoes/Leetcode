@@ -9,9 +9,10 @@ Illustration de l'utilisation d'une pile:
 
 ### Facile
 
-| Label                                                                                        | Tags                                                                  | Date       |
-| -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ---------- |
-| [225. Implement Stack using Queues](../Probleme/0225.%20Implement%20Stack%20using%20Queues/) | [`Stack`](./stack.md), [`Design`](./design.md), [`Queue`](./queue.md) | 15-03-2024 |
+| Label                                                                                        | Tags                                                                                                                         | Date       |
+| -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [225. Implement Stack using Queues](../Probleme/0225.%20Implement%20Stack%20using%20Queues/) | [`Stack`](./stack.md), [`Design`](./design.md), [`Queue`](./queue.md)                                                        | 15-03-2024 |
+| [234. Palindrome Linked List](../Probleme/0234.%20Palindrome%20Linked%20List/)               | [`Linked List`](./linked_list.md), [`Two Pointers`](./two_pointers.md), [`Stack`](./stack.md), [`Recursion`](./recursion.md) | 22-03-2024 |
 
 ### Moyen
 
