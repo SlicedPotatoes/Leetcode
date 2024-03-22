@@ -4,8 +4,10 @@
 
 ### Facile
 
-| Label | Tags | Date |
-| ----- | ---- | ---- |
+| Label                                                                                                             | Tags                                                                                | Date       |
+| ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------- |
+| [1854. Maximum Population Year](../Probleme/1854.%20Maximum%20Population%20Year/)                                 | [`Array`](./array.md), [`Prefix Sum`](./prefix_sum.md), [`Counting`](./counting.md) | 26-02-2024 |
+| [3005. Count Elements With Maximum Frequency](../Probleme/3005.%20Count%20Elements%20With%20Maximum%20Frequency/) | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`Counting`](./counting.md) | 08-03-2024 |
 
 ### Moyen
 
