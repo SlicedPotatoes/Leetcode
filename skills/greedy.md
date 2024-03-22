@@ -18,11 +18,12 @@ Dans le système de pièces (1, 3, 4), l'algorithme glouton n'est pas optimal, c
 
 ### Moyen
 
-| Label                                                                                                                          | Tags                                                                                                           | Date       |
-| ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | ---------- |
-| [334. Increasing Triplet Subsequence](../Probleme/0334.%20Increasing%20Triplet%20Subsequence/)                                 | [`Array`](./array.md), [`Greedy`](./greedy.md)                                                                 | 26-02-2024 |
-| [452. Minimum Number of Arrows to Burst Balloons](../Probleme/0452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons/) | [`Array`](./array.md), [`Greedy`](./greedy.md), [`Sorting`](./sorting.md)                                      | 18-03-2024 |
-| [948. Bag of Tokens](../Probleme/0948.%20Bag%20of%20Tokens/)                                                                   | [`Array`](./array.md), [`Greedy`](./greedy.md), [`Two Pointers`](./two_pointers.md), [`Sorting`](./sorting.md) | 04-03-2024 |
+| Label                                                                                                                                                       | Tags                                                                                                                                                                                      | Date       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [334. Increasing Triplet Subsequence](../Probleme/0334.%20Increasing%20Triplet%20Subsequence/)                                                              | [`Array`](./array.md), [`Greedy`](./greedy.md)                                                                                                                                            | 26-02-2024 |
+| [452. Minimum Number of Arrows to Burst Balloons](../Probleme/0452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons/)                              | [`Array`](./array.md), [`Greedy`](./greedy.md), [`Sorting`](./sorting.md)                                                                                                                 | 18-03-2024 |
+| [948. Bag of Tokens](../Probleme/0948.%20Bag%20of%20Tokens/)                                                                                                | [`Array`](./array.md), [`Greedy`](./greedy.md), [`Two Pointers`](./two_pointers.md), [`Sorting`](./sorting.md)                                                                            | 04-03-2024 |
+| [3081. Replace Question Marks in String to Minimize Its Value](../Probleme/3081.%20Replace%20Question%20Marks%20in%20String%20to%20Minimize%20Its%20Value/) | [`Hash Table`](./hash_table.md), [`String`](./string.md), [`Greedy`](./greedy.md), [`Sorting`](./sorting.md), [`Heap (Priority Queue)`](./priority_queue.md), [`Counting`](./counting.md) | 22-03-2024 |
 
 ### Difficile
 
