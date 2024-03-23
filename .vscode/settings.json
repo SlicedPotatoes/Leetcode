@@ -7,6 +7,7 @@
     "random": "cpp",
     "string": "cpp",
     "unordered_map": "cpp",
-    "initializer_list": "cpp"
+    "initializer_list": "cpp",
+    "limits": "cpp"
   }
 }
