@@ -19,9 +19,10 @@ La programmation dynamique est une technique de résolution de problèmes algori
 
 ### Moyen
 
-| Label                                                                                      | Tags                                                      | Date       |
-| ------------------------------------------------------------------------------------------ | --------------------------------------------------------- | ---------- |
-| [5. Longest Palindromic Substring](../Probleme/0005.%20Longest%20Palindromic%20Substring/) | [`String`](./string.md), [`Dynamic Programming`](./dp.md) | 01-03-2024 |
+| Label                                                                                      | Tags                                                                   | Date       |
+| ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ---------- |
+| [5. Longest Palindromic Substring](../Probleme/0005.%20Longest%20Palindromic%20Substring/) | [`String`](./string.md), [`Dynamic Programming`](./dp.md)              | 01-03-2024 |
+| [62. Unique Paths](../Probleme/0062.%20Unique%20Paths/)                                    | [`Math`](./math.md), [`Dynamic Programming`](./dp.md), `Combinatorics` | 21-03-2024 |
 
 ### Difficile
 
