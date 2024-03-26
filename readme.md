@@ -44,6 +44,7 @@ Chaque catégorie redirigera vers un fichier readme comprenant la liste des exer
 - [Graph](./skills/graph.md)
 - [Bit Manipulation](./skills/bit_manipulation.md)
 - [Sliding Window](./skills/sliding_window.md)
+- [Trie](./skills/trie.md)
 
 ### Avancée
 
