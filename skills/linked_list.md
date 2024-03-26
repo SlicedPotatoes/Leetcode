@@ -31,5 +31,6 @@ Une liste chaînée, composée de trois éléments ayant respectivement la valeu
 
 ### Difficile
 
-| Label | Tags | Date |
-| ----- | ---- | ---- |
+| Label                                                                       | Tags                                                                                                                                                                | Date       |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [23. Merge k Sorted Lists](../Probleme/0023.%20Merge%20k%20Sorted%20Lists/) | [`Linked List`](./linked_list.md), [`Divide and Conquer`](./divide_and_conquer.md), [`Heap (Priority Queue)`](./priority_queue.md), [`Merge Sort`](./merge_sort.md) | 25-03-2024 |

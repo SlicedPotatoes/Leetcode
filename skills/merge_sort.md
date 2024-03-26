@@ -10,8 +10,8 @@ L'algorithme **Merge Sort**, également connu sous le nom de **Tri par fusion**,
 
 Cet algorithme utilise le principe "Diviser pour régner", qui est très efficace avec une complexité temporelle de `O(n log n)`, où `n` représente le nombre d'éléments dans le tableau ou la liste.
 
-Illustration de l'utilisation d'une pile:  
-<img src="../imgs/skills/stack-1.png"/>
+Illustration du tri par fusion:  
+<img src="../imgs/skills/merge_sort-1.png"/>
 
 ### Facile
 
@@ -25,5 +25,6 @@ Illustration de l'utilisation d'une pile:
 
 ### Difficile
 
-| Label | Tags | Date |
-| ----- | ---- | ---- |
+| Label                                                                       | Tags                                                                                                                                                                | Date       |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [23. Merge k Sorted Lists](../Probleme/0023.%20Merge%20k%20Sorted%20Lists/) | [`Linked List`](./linked_list.md), [`Divide and Conquer`](./divide_and_conquer.md), [`Heap (Priority Queue)`](./priority_queue.md), [`Merge Sort`](./merge_sort.md) | 25-03-2024 |
