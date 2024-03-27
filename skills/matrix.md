@@ -12,8 +12,9 @@ Une **Matrice** est essentiellement un tableau de nombres organisé en lignes et
 
 ### Moyen
 
-| Label | Tags | Date |
-| ----- | ---- | ---- |
+| Label                                                   | Tags                                                                            | Date       |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------- |
+| [36. Valid Sudoku](../Probleme/0036.%20Valid%20Sudoku/) | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`Matrix`](./matrix.md) | 25-03-2024 |
 
 ### Difficile
 
