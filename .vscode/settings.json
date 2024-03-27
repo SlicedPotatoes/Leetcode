@@ -8,6 +8,13 @@
     "string": "cpp",
     "unordered_map": "cpp",
     "initializer_list": "cpp",
-    "limits": "cpp"
+    "limits": "cpp",
+    "*.tcc": "cpp",
+    "memory": "cpp",
+    "optional": "cpp",
+    "ostream": "cpp",
+    "streambuf": "cpp",
+    "functional": "cpp",
+    "tuple": "cpp"
   }
 }

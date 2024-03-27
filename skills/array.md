@@ -69,3 +69,4 @@ Illustration d'un tableau a une dimension:
 | Label                                                                                      | Tags                                                                                                          | Date       |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | ---------- |
 | [4. Median of Two Sorted Arrays](../Probleme/0004.%20Median%20of%20Two%20Sorted%20Arrays/) | [`Array`](./array.md), [`Binary Search`](./binary_search.md), [`Divide and Conquer`](./divide_and_conquer.md) | 19-02-2024 |
+| [41. First Missing Positive](../Probleme/0041.%20First%20Missing%20Positive/)              | [`Array`](./array.md), [`Hash Table`](./hash_table.md)                                                        | 26-03-2024 |
