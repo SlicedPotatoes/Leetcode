@@ -18,6 +18,7 @@ la **Recursion** est un concept où une fonction s'appelle elle-même pour réso
 | Label                                                          | Tags                                                                                                                         | Date       |
 | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [2. Add Two Numbers](../Probleme/0002.%20Add%20Two%20Numbers/) | [`Linked List`](./linked_list.md), [`Math`](./math.md), [`Recursion`](./recursion.md)                                        | 18-02-2024 |
+| [50. Pow(x, n)](<../Probleme/0050.%20Pow(x,%20n)/>)            | [`Math`](./math.md), [`Recursion`](./recursion.md)                                                                           | 29-03-2024 |
 | [143. Reorder List](../Probleme/0143.%20Reorder%20List/)       | [`Linked List`](./linked_list.md), [`Two Pointers`](./two_pointers.md), [`Stack`](./stack.md), [`Recursion`](./recursion.md) | 23-03-2024 |
 
 ### Difficile
