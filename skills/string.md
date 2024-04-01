@@ -46,3 +46,4 @@ Illustration d'une chaîne de caractères:
 | Label                                                                                   | Tags                                                                                     | Date       |
 | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------- |
 | [10. Regular Expression Matching](../Probleme/0010.%20Regular%20Expression%20Matching/) | [`String`](./string.md), [`Dynamic Programming`](./dp.md), [`Recursion`](./recursion.md) | 05-03-2024 |
+| [32. Longest Valid Parentheses](../Probleme/0032.%20Longest%20Valid%20Parentheses/)     | [`String`](./string.md), [`Dynamic Programming`](./dp.md), [`Stack`](./stack.md)         | 27-04-2024 |
