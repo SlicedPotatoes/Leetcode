@@ -21,13 +21,14 @@
 
 ### Moyen
 
-| Label                                                             | Tags                                                                                  | Date       |
-| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------- |
-| [2. Add Two Numbers](../Probleme/0002.%20Add%20Two%20Numbers/)    | [`Linked List`](./linked_list.md), [`Math`](./math.md), [`Recursion`](./recursion.md) | 18-02-2024 |
-| [7. Reverse Integer](../Probleme/0007.%20Reverse%20Integer/)      | [`Math`](./math.md)                                                                   | 04-03-2024 |
-| [12. Integer to Roman](../Probleme/0012.%20Integer%20to%20Roman/) | [`Hash Table`](./hash_table.md), [`Math`](./math.md), [`String`](./string.md)         | 13-03-2024 |
-| [50. Pow(x, n)](<../Probleme/0050.%20Pow(x,%20n)/>)               | [`Math`](./math.md), [`Recursion`](./recursion.md)                                    | 29-03-2024 |
-| [62. Unique Paths](../Probleme/0062.%20Unique%20Paths/)           | [`Math`](./math.md), [`Dynamic Programming`](./dp.md), `Combinatorics`                | 21-03-2024 |
+| Label                                                                                          | Tags                                                                                                               | Date       |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------- |
+| [2. Add Two Numbers](../Probleme/0002.%20Add%20Two%20Numbers/)                                 | [`Linked List`](./linked_list.md), [`Math`](./math.md), [`Recursion`](./recursion.md)                              | 18-02-2024 |
+| [7. Reverse Integer](../Probleme/0007.%20Reverse%20Integer/)                                   | [`Math`](./math.md)                                                                                                | 04-03-2024 |
+| [12. Integer to Roman](../Probleme/0012.%20Integer%20to%20Roman/)                              | [`Hash Table`](./hash_table.md), [`Math`](./math.md), [`String`](./string.md)                                      | 13-03-2024 |
+| [50. Pow(x, n)](<../Probleme/0050.%20Pow(x,%20n)/>)                                            | [`Math`](./math.md), [`Recursion`](./recursion.md)                                                                 | 29-03-2024 |
+| [62. Unique Paths](../Probleme/0062.%20Unique%20Paths/)                                        | [`Math`](./math.md), [`Dynamic Programming`](./dp.md), `Combinatorics`                                             | 21-03-2024 |
+| [380. Insert Delete GetRandom O(1)](<../Probleme/0380.%20Insert%20Delete%20GetRandom%20O(1)/>) | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`Math`](./math.md), [`Design`](./design.md), `Randomized` | 06-04-2024 |
 
 ### Difficile
 

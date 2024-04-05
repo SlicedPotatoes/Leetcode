@@ -14,9 +14,10 @@ Les exercices comportant ce tag requièrent l'implémentation d'une classe compr
 
 ### Moyen
 
-| Label                                              | Tags                                           | Date       |
-| -------------------------------------------------- | ---------------------------------------------- | ---------- |
-| [155. Min Stack](../Probleme/0155.%20Min%20Stack/) | [`Stack`](./stack.md), [`Design`](./design.md) | 11-03-2024 |
+| Label                                                                                          | Tags                                                                                                               | Date       |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------- |
+| [155. Min Stack](../Probleme/0155.%20Min%20Stack/)                                             | [`Stack`](./stack.md), [`Design`](./design.md)                                                                     | 11-03-2024 |
+| [380. Insert Delete GetRandom O(1)](<../Probleme/0380.%20Insert%20Delete%20GetRandom%20O(1)/>) | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`Math`](./math.md), [`Design`](./design.md), `Randomized` | 06-04-2024 |
 
 ### Difficile
 
