@@ -2,7 +2,7 @@
 
 ## Énoncé
 
-mplémentez la classe `RandomizedSet`:
+Implémentez la classe `RandomizedSet`:
 
 - `RandomizedSet()` Initialise l'objet `RandomizedSet`.
 - `bool insert(int val)` Insère un élément `val` dans l'ensemble s'il n'est pas présent. Renvoie `true` si l'élément n'était pas présent, sinon `false`.
