@@ -5,6 +5,7 @@
 | Label                                                                                    | Tags                                                                                                                     | Date       |
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------- |
 | [88. Merge Sorted Array](../Probleme/0088.%20Merge%20Sorted%20Array/)                    | [`Array`](./array.md), [`Two Pointers`](./two_pointers.md), [`Sorting`](./sorting.md)                                    | 21-02-2024 |
+| [242. Valid Anagram](../Probleme/0242.%20Valid%20Anagram/)                               | [`Hash Table`](./hash_table.md), [`String`](./string.md), [`Sorting`](./sorting.md)                                      | 30-03-2024 |
 | [349. Intersection of Two Arrays](../Probleme/0349.%20Intersection%20of%20Two%20Arrays/) | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`Binary Search`](./binary_search.md), [`Sorting`](./sorting.md) | 10-03-2024 |
 | [997. Find the Town Judge](../Probleme/0997.%20Find%20the%20Town%20Judge/)               | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`Graph`](./graph.md)                                            | 22-02-2024 |
 
