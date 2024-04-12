@@ -9,8 +9,9 @@ Trois étapes (diviser, régner, combiner) illustrées avec l'algorithme du tri 
 
 ### Facile
 
-| Label | Tags | Date |
-| ----- | ---- | ---- |
+| Label                                                            | Tags                                                                                                                                                            | Date       |
+| ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [169. Majority Element](../Probleme/0169.%20Majority%20Element/) | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`Divide and Conquer`](./divide_and_conquer.md), [`Sorting`](./sorting.md), [`Counting`](./counting.md) | 12-04-2024 |
 
 ### Moyen
 
