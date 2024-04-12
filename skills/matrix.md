@@ -12,11 +12,12 @@ Une **Matrice** est essentiellement un tableau de nombres organisé en lignes et
 
 ### Moyen
 
-| Label                                                      | Tags                                                                                                         | Date       |
-| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ---------- |
-| [36. Valid Sudoku](../Probleme/0036.%20Valid%20Sudoku/)    | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`Matrix`](./matrix.md)                              | 25-03-2024 |
-| [79. Word Search](../Probleme/0079.%20Word%20Search/)      | [`Array`](./array.md), [`String`](./string.md), [`Backtracking`](./backtracking.md), [`Matrix`](./matrix.md) | 03-04-2024 |
-| [289. Game of Life](../Probleme/0289.%20Game%20of%20Life/) | [`Array`](./array.md), [`Matrix`](./matrix.md), [`Simulation`](./simulation.md)                              | 06-03-2024 |
+| Label                                                          | Tags                                                                                                                 | Date       |
+| -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [36. Valid Sudoku](../Probleme/0036.%20Valid%20Sudoku/)        | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`Matrix`](./matrix.md)                                      | 25-03-2024 |
+| [79. Word Search](../Probleme/0079.%20Word%20Search/)          | [`Array`](./array.md), [`String`](./string.md), [`Backtracking`](./backtracking.md), [`Matrix`](./matrix.md)         | 03-04-2024 |
+| [289. Game of Life](../Probleme/0289.%20Game%20of%20Life/)     | [`Array`](./array.md), [`Matrix`](./matrix.md), [`Simulation`](./simulation.md)                                      | 06-03-2024 |
+| [934. Shortest Bridge](../Probleme/0934.%20Shortest%20Bridge/) | [`Array`](./array.md), [`Depth-First Search`](./dfs.md), [`Breadth-First Search`](./bfs.md), [`Matrix`](./matrix.md) | 29-03-2024 |
 
 ### Difficile
 

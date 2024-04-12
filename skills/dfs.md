@@ -23,6 +23,7 @@ Exemple animé de l'algorithme de parcours en profondeur:
 | Label                                                                                        | Tags                                                                                                                         | Date       |
 | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [513. Find Bottom Left Tree Value](../Probleme/0513.%20Find%20Bottom%20Left%20Tree%20Value/) | [`Tree`](./tree.md), [`Depth-First Search`](./dfs.md), [`Breadth-First Search`](./bfs.md), [`Binary Tree`](./binary_tree.md) | 28-02-2024 |
+| [934. Shortest Bridge](../Probleme/0934.%20Shortest%20Bridge/)                               | [`Array`](./array.md), [`Depth-First Search`](./dfs.md), [`Breadth-First Search`](./bfs.md), [`Matrix`](./matrix.md)         | 29-03-2024 |
 
 ### Difficile
 
