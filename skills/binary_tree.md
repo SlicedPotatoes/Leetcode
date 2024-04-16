@@ -21,6 +21,7 @@ Un exemple simple d'arbre binaire:
 
 | Label                                                                                        | Tags                                                                                                                         | Date       |
 | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [129. Sum Root to Leaf Numbers](../Probleme/0129.%20Sum%20Root%20to%20Leaf%20Numbers/)       | [`Tree`](./tree.md), [`Depth-First Search`](./dfs.md), [`Binary Tree`](./binary_tree.md)                                     | 15-04-2024 |
 | [513. Find Bottom Left Tree Value](../Probleme/0513.%20Find%20Bottom%20Left%20Tree%20Value/) | [`Tree`](./tree.md), [`Depth-First Search`](./dfs.md), [`Breadth-First Search`](./bfs.md), [`Binary Tree`](./binary_tree.md) | 28-02-2024 |
 | [1609. Even Odd Tree](../Probleme/1609.%20Even%20Odd%20Tree/)                                | [`Tree`](./tree.md), [`Breadth-First Search`](./bfs.md), [`Binary Tree`](./binary_tree.md)                                   | 29-02-2024 |
 
