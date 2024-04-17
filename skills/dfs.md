@@ -21,12 +21,13 @@ Exemple animé de l'algorithme de parcours en profondeur:
 
 ### Moyen
 
-| Label                                                                                        | Tags                                                                                                                         | Date       |
-| -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [129. Sum Root to Leaf Numbers](../Probleme/0129.%20Sum%20Root%20to%20Leaf%20Numbers/)       | [`Tree`](./tree.md), [`Depth-First Search`](./dfs.md), [`Binary Tree`](./binary_tree.md)                                     | 15-04-2024 |
-| [513. Find Bottom Left Tree Value](../Probleme/0513.%20Find%20Bottom%20Left%20Tree%20Value/) | [`Tree`](./tree.md), [`Depth-First Search`](./dfs.md), [`Breadth-First Search`](./bfs.md), [`Binary Tree`](./binary_tree.md) | 28-02-2024 |
-| [623. Add One Row to Tree](../Probleme/0623.%20Add%20One%20Row%20to%20Tree/)                 | [`Tree`](./tree.md), [`Depth-First Search`](./dfs.md), [`Breadth-First Search`](./bfs.md), [`Binary Tree`](./binary_tree.md) | 16-04-2024 |
-| [934. Shortest Bridge](../Probleme/0934.%20Shortest%20Bridge/)                               | [`Array`](./array.md), [`Depth-First Search`](./dfs.md), [`Breadth-First Search`](./bfs.md), [`Matrix`](./matrix.md)         | 29-03-2024 |
+| Label                                                                                                      | Tags                                                                                                                         | Date       |
+| ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [129. Sum Root to Leaf Numbers](../Probleme/0129.%20Sum%20Root%20to%20Leaf%20Numbers/)                     | [`Tree`](./tree.md), [`Depth-First Search`](./dfs.md), [`Binary Tree`](./binary_tree.md)                                     | 15-04-2024 |
+| [513. Find Bottom Left Tree Value](../Probleme/0513.%20Find%20Bottom%20Left%20Tree%20Value/)               | [`Tree`](./tree.md), [`Depth-First Search`](./dfs.md), [`Breadth-First Search`](./bfs.md), [`Binary Tree`](./binary_tree.md) | 28-02-2024 |
+| [623. Add One Row to Tree](../Probleme/0623.%20Add%20One%20Row%20to%20Tree/)                               | [`Tree`](./tree.md), [`Depth-First Search`](./dfs.md), [`Breadth-First Search`](./bfs.md), [`Binary Tree`](./binary_tree.md) | 16-04-2024 |
+| [934. Shortest Bridge](../Probleme/0934.%20Shortest%20Bridge/)                                             | [`Array`](./array.md), [`Depth-First Search`](./dfs.md), [`Breadth-First Search`](./bfs.md), [`Matrix`](./matrix.md)         | 29-03-2024 |
+| [988. Smallest String Starting From Leaf](../Probleme/0988.%20Smallest%20String%20Starting%20From%20Leaf/) | [`String`](./string.md), [`Tree`](./tree.md), [`Depth-First Search`](./dfs.md), [`Binary Tree`](./binary_tree.md)            | 17-01-2024 |
 
 ### Difficile
 
