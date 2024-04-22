@@ -19,8 +19,9 @@ Illustration de l'utilisation d'union find:
 
 ### Moyen
 
-| Label | Tags | Date |
-| ----- | ---- | ---- |
+| Label                                                                | Tags                                                                                                                                                  | Date       |
+| -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [200. Number of Islands](../Probleme/0200.%20Number%20of%20Islands/) | [`Array`](./array.md), [`Depth-First Search`](./dfs.md), [`Breadth-First Search`](./bfs.md), [`Union Find`](./union_find.md), [`Matrix`](./matrix.md) | 19-04-2024 |
 
 ### Difficile
 
