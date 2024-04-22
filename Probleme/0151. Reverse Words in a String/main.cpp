@@ -1,47 +1,49 @@
 class Solution
 {
   public:
-    string reverseWords(string s)
+    string reverseWords(string &s)
     {
-        // Initialiser les indices de gauche et de droite pour parcourir la chaîne de caractères
-        int left = s.size() - 1;  // Indice de départ pour le premier caractère non-espace à droite
-        int right = s.size() - 1; // Indice de fin pour le dernier caractère non-espace à droite
+        // Inverse toute la chaîne de caractères
+        reverse(s.begin(), s.end());
 
-        // Chaîne de caractères pour stocker le résultat
-        string output;
-        output.reserve(s.size());
+        int left = 0;
+        int right = 0;
 
-        // Parcourir la chaîne de caractères de droite à gauche
-        while (left >= 0)
+        int rightNS = 0;
+
+        // Parcours de la chaîne de caractères
+        while (right < s.size())
         {
-            // Ignorer les espaces à la fin
-            while (left >= 0 && s[left] == ' ')
+            // Ignorer les espaces au début de chaque mot
+            while (right < s.size() && s[right] == ' ')
             {
-                left--; // Décrémenter l'indice de gauche tant que l'on rencontre des espaces
+                right++;
             }
-            if (left == -1)
+            left = right;
+
+            int size = 0;
+
+            // Déplacement des caractères d'un mot vers leur nouvelle position
+            while (right < s.size() && s[right] != ' ')
             {
-                break; // Si nous avons atteint le début de la chaîne, sortir de la boucle
+                swap(s[rightNS], s[right]);
+                rightNS++;
+                right++;
+                size++;
             }
-            right = left; // Mettre à jour l'indice de droite pour marquer le début d'un nouveau mot
-            while (left >= 0 && s[left] != ' ')
-            {
-                left--; // Décrémenter l'indice de gauche tant que l'on rencontre des caractères non-espace
-            }
-            // Ajouter le mot à la chaîne de sortie en parcourant de gauche à droite
-            for (int i = left + 1; i <= right; i++)
-            {
-                output += s[i];
-            }
-            output += ' '; // Ajouter un espace entre les mots
+
+            // Inversion du mot pour le remettre dans l'ordre d'origine
+            reverse(s.begin() + rightNS - size, s.begin() + rightNS);
+            s[rightNS] = ' ';
+            rightNS++;
         }
 
-        // Supprimer l'espace en trop à la fin si la chaîne de sortie n'est pas vide
-        if (output.size() != 0)
+        // Suppression des espaces en trop à la fin de la chaîne
+        while (s.back() == ' ')
         {
-            output.pop_back();
+            s.pop_back();
         }
 
-        return output;
+        return s;
     }
 };
