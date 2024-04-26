@@ -32,6 +32,7 @@ Une liste chaînée, composée de trois éléments ayant respectivement la valeu
 
 ### Difficile
 
-| Label                                                                       | Tags                                                                                                                                                                | Date       |
-| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [23. Merge k Sorted Lists](../Probleme/0023.%20Merge%20k%20Sorted%20Lists/) | [`Linked List`](./linked_list.md), [`Divide and Conquer`](./divide_and_conquer.md), [`Heap (Priority Queue)`](./priority_queue.md), [`Merge Sort`](./merge_sort.md) | 25-03-2024 |
+| Label                                                                               | Tags                                                                                                                                                                | Date       |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [23. Merge k Sorted Lists](../Probleme/0023.%20Merge%20k%20Sorted%20Lists/)         | [`Linked List`](./linked_list.md), [`Divide and Conquer`](./divide_and_conquer.md), [`Heap (Priority Queue)`](./priority_queue.md), [`Merge Sort`](./merge_sort.md) | 25-03-2024 |
+| [25. Reverse Nodes in k-Group](../Probleme/0025.%20Reverse%20Nodes%20in%20k-Group/) | [`Linked List`](./linked_list.md), [`Recursion`](./recursion.md)                                                                                                    | 26-04-2024 |
