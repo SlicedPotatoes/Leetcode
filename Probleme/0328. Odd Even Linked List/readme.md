@@ -2,9 +2,9 @@
 
 ## Énoncé
 
-Étant donné la `head` d'une liste chaînée simple, regroupez tous les nœuds avec des indices impairs ensemble suivis des nœuds avec des indices pairs, et retournez la liste réordonnée.
+Étant donné la `head` d'une liste chaînée simple, regroupez tous les noeuds avec des indices impairs ensemble suivis des noeuds avec des indices pairs, et retournez la liste réordonnée.
 
-Le **premier** nœud est considéré comme **impair**, et le **deuxième** nœud est **pair**, ainsi de suite.
+Le **premier** noeud est considéré comme **impair**, et le **deuxième** noeud est **pair**, ainsi de suite.
 
 Notez que l'ordre relatif à l'intérieur des groupes pairs et impairs doit rester tel qu'il était à l'entrée.
 
@@ -28,7 +28,7 @@ Vous devez résoudre le problème avec une complexité spatiale de `O(1)` et une
 
 ## Contraintes
 
-Le nombre de nœuds dans la liste chaînée est dans la plage `[0, 10^4]`.  
+Le nombre de noeuds dans la liste chaînée est dans la plage `[0, 10^4]`.  
 `-10^6 <= Node.val <= 10^6`
 
 ## Note personnelle
