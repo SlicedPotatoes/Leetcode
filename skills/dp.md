@@ -19,11 +19,12 @@ La programmation dynamique est une technique de résolution de problèmes algori
 
 ### Moyen
 
-| Label                                                                                      | Tags                                                                   | Date       |
-| ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ---------- |
-| [5. Longest Palindromic Substring](../Probleme/0005.%20Longest%20Palindromic%20Substring/) | [`String`](./string.md), [`Dynamic Programming`](./dp.md)              | 01-03-2024 |
-| [62. Unique Paths](../Probleme/0062.%20Unique%20Paths/)                                    | [`Math`](./math.md), [`Dynamic Programming`](./dp.md), `Combinatorics` | 21-03-2024 |
-| [198. House Robber](../Probleme/0198.%20House%20Robber/)                                   | [`Array`](./array.md), [`Dynamic Programming`](./dp.md)                | 21-03-2024 |
+| Label                                                                                      | Tags                                                                                                                 | Date       |
+| ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [5. Longest Palindromic Substring](../Probleme/0005.%20Longest%20Palindromic%20Substring/) | [`String`](./string.md), [`Dynamic Programming`](./dp.md)                                                            | 01-03-2024 |
+| [62. Unique Paths](../Probleme/0062.%20Unique%20Paths/)                                    | [`Math`](./math.md), [`Dynamic Programming`](./dp.md), `Combinatorics`                                               | 21-03-2024 |
+| [198. House Robber](../Probleme/0198.%20House%20Robber/)                                   | [`Array`](./array.md), [`Dynamic Programming`](./dp.md)                                                              | 21-03-2024 |
+| [542. 01 Matrix](../Probleme/0542.%2001%20Matrix/)                                         | [`Array`](./array.md), [`Dynamic Programming`](./dp.md), [`Breadth-First Search`](./bfs.md), [`Matrix`](./matrix.md) | 27-04-2024 |
 
 ### Difficile
 
