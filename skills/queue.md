@@ -15,8 +15,9 @@ Illustration de l'utilisation d'une file:
 
 ### Moyen
 
-| Label | Tags | Date |
-| ----- | ---- | ---- |
+| Label                                                    | Tags                                                                    | Date       |
+| -------------------------------------------------------- | ----------------------------------------------------------------------- | ---------- |
+| [649. Dota2 Senate](../Probleme/0649.%20Dota2%20Senate/) | [`String`](./string.md), [`Greedy`](./greedy.md), [`Queue`](./queue.md) | 18-04-2024 |
 
 ### Difficile
 
