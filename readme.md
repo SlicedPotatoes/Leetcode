@@ -46,6 +46,7 @@ Chaque catégorie redirigera vers un fichier readme comprenant la liste des exer
 - [Sliding Window](./skills/sliding_window.md)
 - [Trie](./skills/trie.md)
 - [Merge Sort](./skills/merge_sort.md)
+- [Binary Search Tree](./skills/binary_search_tree.md)
 
 ### Avancée
 
