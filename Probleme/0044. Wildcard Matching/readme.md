@@ -5,7 +5,7 @@
 Étant donné une chaîne d'entrée (`s`) et un motif (`p`), mettez en œuvre la correspondance de motif générique avec prise en charge de `'?'` et `'*'` où:
 
 - `'?'` Correspond à n'importe quel caractère unique.
-- `'*'` Correspond à n'importe quelle séquence de caractères (y compris la séquence vide).
+- `'*'` Correspond à n'importe quelle séquence de caractères (y compris une séquence vide).
 
 La correspondance doit couvrir **toute** la chaîne d'entrée (pas seulement une partie).
 
@@ -42,7 +42,7 @@ L'idée consiste à créer une matrice 2D de booléens de taille `p.size() + 1` 
 
 Deux cas doivent être pris en compte : lorsque le caractère actuel est unique (pas une étoile) ou lorsqu'il s'agit d'une séquence de caractères quelconque (\*).
 
-Dans le cas d'un caractère unique, on vérifie si le caractère du motif correspond au caractère de la chaîne. Si c'est le cas et que le motif précédant correspond à la chaîne précédant (c'est-à-dire sans le caractère du motif et de la chaîne que l'on traite actuellement), alors la chaîne et le motif correspondent jusqu'à ce dernier caractère. Pour savoir si la chaîne précédente correspond au motif précédent, j'utilise `dp[i - 1][j - 1]`.
+Dans le cas d'un caractère unique, on vérifie si le caractère du motif correspond au caractère de la chaîne. Si c'est le cas et que le motif précédent correspond à la chaîne précédente (c'est-à-dire sans le caractère du motif et de la chaîne que l'on traite actuellement), alors la chaîne et le motif correspondent jusqu'à ce dernier caractère. Pour savoir si la chaîne précédente correspond au motif précédent, j'utilise `dp[i - 1][j - 1]`.
 
 Dans le cas d'une séquence de caractères quelconque, il y a deux autres cas à considérer : ignorer le motif multiple ou le prendre en compte.
 
