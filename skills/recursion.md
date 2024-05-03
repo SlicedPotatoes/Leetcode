@@ -23,7 +23,8 @@ la **Recursion** est un concept où une fonction s'appelle elle-même pour réso
 
 ### Difficile
 
-| Label                                                                                   | Tags                                                                                     | Date       |
-| --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------- |
-| [10. Regular Expression Matching](../Probleme/0010.%20Regular%20Expression%20Matching/) | [`String`](./string.md), [`Dynamic Programming`](./dp.md), [`Recursion`](./recursion.md) | 05-03-2024 |
-| [25. Reverse Nodes in k-Group](../Probleme/0025.%20Reverse%20Nodes%20in%20k-Group/)     | [`Linked List`](./linked_list.md), [`Recursion`](./recursion.md)                         | 26-04-2024 |
+| Label                                                                                   | Tags                                                                                                              | Date       |
+| --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ---------- |
+| [10. Regular Expression Matching](../Probleme/0010.%20Regular%20Expression%20Matching/) | [`String`](./string.md), [`Dynamic Programming`](./dp.md), [`Recursion`](./recursion.md)                          | 05-03-2024 |
+| [25. Reverse Nodes in k-Group](../Probleme/0025.%20Reverse%20Nodes%20in%20k-Group/)     | [`Linked List`](./linked_list.md), [`Recursion`](./recursion.md)                                                  | 26-04-2024 |
+| [44. Wildcard Matching](../Probleme/0044.%20Wildcard%20Matching/)                       | [`String`](./string.md), [`Dynamic Programming`](./dp.md), [`Greedy`](./greedy.md), [`Recursion`](./recursion.md) | 01-05-2024 |

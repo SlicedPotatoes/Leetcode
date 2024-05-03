@@ -29,5 +29,6 @@ Dans le système de pièces (1, 3, 4), l'algorithme glouton n'est pas optimal, c
 
 ### Difficile
 
-| Label | Tags | Date |
-| ----- | ---- | ---- |
+| Label                                                             | Tags                                                                                                              | Date       |
+| ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ---------- |
+| [44. Wildcard Matching](../Probleme/0044.%20Wildcard%20Matching/) | [`String`](./string.md), [`Dynamic Programming`](./dp.md), [`Greedy`](./greedy.md), [`Recursion`](./recursion.md) | 01-05-2024 |
