@@ -26,8 +26,9 @@ Il existe également des opérations de décalage:
 
 ### Moyen
 
-| Label | Tags | Date |
-| ----- | ---- | ---- |
+| Label                                                                                                                       | Tags                                                                                                        | Date       |
+| --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ---------- |
+| [3097. Shortest Subarray With OR at Least K II](../Probleme/3097.%20Shortest%20Subarray%20With%20OR%20at%20Least%20K%20II/) | [`Array`](./array.md), [`Bit Manipulation`](./bit_manipulation.md), [`Sliding Window`](./sliding_window.md) | 11-05-2024 |
 
 ### Difficile
 
