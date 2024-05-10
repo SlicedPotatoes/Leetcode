@@ -86,6 +86,7 @@ Illustration d'un tableau a une dimension:
 | [1679. Max Number of K-Sum Pairs](../Probleme/1679.%20Max%20Number%20of%20K-Sum%20Pairs/)                                                                     | [`Array`](./array.md), [`Two Pointers`](./two_pointers.md), [`Sorting`](./sorting.md), [`Hash Table`](./hash_table.md)                                             | 13-03-2024 |
 | [3066. Minimum Operations to Exceed Threshold Value II](../Probleme/3066.%20Minimum%20Operations%20to%20Exceed%20Threshold%20Value%20II/)                     | [`Array`](./array.md), [`Heap (Priority Queue)`](./priority_queue.md), [`Simulation`](./simulation.md)                                                             | 02-03-2024 |
 | [3080. Mark Elements on Array by Performing Queries](../Probleme/3080.%20Mark%20Elements%20on%20Array%20by%20Performing%20Queries/)                           | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`Sorting`](./sorting.md), [`Heap (Priority Queue)`](./priority_queue.md), [`Simulation`](./simulation.md) | 16-03-2024 |
+| [3128. Right Triangles](../Probleme/3128.%20Right%20Triangles/)                                                                                               | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`Math`](./math.md), `Combinatorics`, `Counting`                                                           | 10-05-2024 |
 
 ### Difficile
 

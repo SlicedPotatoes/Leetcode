@@ -30,6 +30,7 @@
 | [50. Pow(x, n)](<../Probleme/0050.%20Pow(x,%20n)/>)                                            | [`Math`](./math.md), [`Recursion`](./recursion.md)                                                                 | 29-03-2024 |
 | [62. Unique Paths](../Probleme/0062.%20Unique%20Paths/)                                        | [`Math`](./math.md), [`Dynamic Programming`](./dp.md), `Combinatorics`                                             | 21-03-2024 |
 | [380. Insert Delete GetRandom O(1)](<../Probleme/0380.%20Insert%20Delete%20GetRandom%20O(1)/>) | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`Math`](./math.md), [`Design`](./design.md), `Randomized` | 06-04-2024 |
+| [3128. Right Triangles](../Probleme/3128.%20Right%20Triangles/)                                | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`Math`](./math.md), `Combinatorics`, `Counting`           | 10-05-2024 |
 
 ### Difficile
 
