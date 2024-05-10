@@ -6,10 +6,11 @@
 
 ### Facile
 
-| Label                                                                                    | Tags                                                                                            | Date       |
-| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------- |
-| [219. Contains Duplicate II](../Probleme/0219.%20Contains%20Duplicate%20II/)             | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`Sliding Window`](./sliding_window.md) | 30-03-2024 |
-| [643. Maximum Average Subarray I](../Probleme/0643.%20Maximum%20Average%20Subarray%20I/) | [`Array`](./array.md), [`Sliding Window`](./sliding_window.md)                                  | 13-03-2024 |
+| Label                                                                                                                     | Tags                                                                                                        | Date       |
+| ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ---------- |
+| [219. Contains Duplicate II](../Probleme/0219.%20Contains%20Duplicate%20II/)                                              | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`Sliding Window`](./sliding_window.md)             | 30-03-2024 |
+| [643. Maximum Average Subarray I](../Probleme/0643.%20Maximum%20Average%20Subarray%20I/)                                  | [`Array`](./array.md), [`Sliding Window`](./sliding_window.md)                                              | 13-03-2024 |
+| [3095. Shortest Subarray With OR at Least K I](../Probleme/3095.%20Shortest%20Subarray%20With%20OR%20at%20Least%20K%20I/) | [`Array`](./array.md), [`Bit Manipulation`](./bit_manipulation.md), [`Sliding Window`](./sliding_window.md) | 11-05-2024 |
 
 ### Moyen
 

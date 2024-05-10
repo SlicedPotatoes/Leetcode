@@ -18,10 +18,11 @@ Il existe également des opérations de décalage:
 
 ### Facile
 
-| Label                                                      | Tags                                                                                                                       | Date       |
-| ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [67. Add Binary](../Probleme/0067.%20Add%20Binary/)        | [`Math`](./math.md), [`String`](./string.md), [`Bit Manipulation`](./bit_manipulation.md), [`Simulation`](./simulation.md) | 04-03-2024 |
-| [338. Counting Bits](../Probleme/0338.%20Counting%20Bits/) | [`Dynamic Programming`](./dp.md), [`Bit Manipulation`](./bit_manipulation.md)                                              | 08-03-2024 |
+| Label                                                                                                                     | Tags                                                                                                                       | Date       |
+| ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [67. Add Binary](../Probleme/0067.%20Add%20Binary/)                                                                       | [`Math`](./math.md), [`String`](./string.md), [`Bit Manipulation`](./bit_manipulation.md), [`Simulation`](./simulation.md) | 04-03-2024 |
+| [338. Counting Bits](../Probleme/0338.%20Counting%20Bits/)                                                                | [`Dynamic Programming`](./dp.md), [`Bit Manipulation`](./bit_manipulation.md)                                              | 08-03-2024 |
+| [3095. Shortest Subarray With OR at Least K I](../Probleme/3095.%20Shortest%20Subarray%20With%20OR%20at%20Least%20K%20I/) | [`Array`](./array.md), [`Bit Manipulation`](./bit_manipulation.md), [`Sliding Window`](./sliding_window.md)                | 11-05-2024 |
 
 ### Moyen
 
