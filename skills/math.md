@@ -19,6 +19,7 @@
 | [2485. Find the Pivot Integer](../Probleme/2485.%20Find%20the%20Pivot%20Integer/)                                                                 | [`Prefix Sum`](./prefix_sum.md), [`Math`](./math.md)                                                                       | 13-03-2024 |
 | [2864. Maximum Odd Binary Number](../Probleme/2864.%20Maximum%20Odd%20Binary%20Number/)                                                           | [`Math`](./math.md), [`String`](./string.md), [`Greedy`](./greedy.md)                                                      | 01-03-2024 |
 | [3079. Find the Sum of Encrypted Integers](../Probleme/3079.%20Find%20the%20Sum%20of%20Encrypted%20Integers/)                                     | [`Array`](./array.md), [`Math`](./math.md)                                                                                 | 16-03-2024 |
+| [3099. Harshad Number](../Probleme/3099.%20Harshad%20Number/)                                                                                     | [`Math`](./math.md)                                                                                                        | 06-04-2024 |
 
 ### Moyen
 
