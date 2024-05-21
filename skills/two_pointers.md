@@ -40,5 +40,6 @@ Le principe des **deux pointeurs** est une technique couramment utilisée en pro
 
 ### Difficile
 
-| Label | Tags | Date |
-| ----- | ---- | ---- |
+| Label                                                                   | Tags                                                                                                                                   | Date       |
+| ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [42. Trapping Rain Water](../Probleme/0042.%20Trapping%20Rain%20Water/) | [`Array`](./array.md), [`Two Pointers`](./two_pointers.md), [`Dynamic Programming`](./dp.md), [`Stack`](./stack.md), `Monotonic Stack` | 20-05-2024 |

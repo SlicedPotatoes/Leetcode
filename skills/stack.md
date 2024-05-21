@@ -25,6 +25,7 @@ Illustration de l'utilisation d'une pile:
 
 ### Difficile
 
-| Label                                                                               | Tags                                                                             | Date       |
-| ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------- |
-| [32. Longest Valid Parentheses](../Probleme/0032.%20Longest%20Valid%20Parentheses/) | [`String`](./string.md), [`Dynamic Programming`](./dp.md), [`Stack`](./stack.md) | 27-04-2024 |
+| Label                                                                               | Tags                                                                                                                                   | Date       |
+| ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [32. Longest Valid Parentheses](../Probleme/0032.%20Longest%20Valid%20Parentheses/) | [`String`](./string.md), [`Dynamic Programming`](./dp.md), [`Stack`](./stack.md)                                                       | 27-04-2024 |
+| [42. Trapping Rain Water](../Probleme/0042.%20Trapping%20Rain%20Water/)             | [`Array`](./array.md), [`Two Pointers`](./two_pointers.md), [`Dynamic Programming`](./dp.md), [`Stack`](./stack.md), `Monotonic Stack` | 20-05-2024 |
