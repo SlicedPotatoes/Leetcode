@@ -2,6 +2,8 @@
 
 Tous les exercices que j'ai résolus sur LeetCode [Mon profil](https://leetcode.com/SlicedPotatoes/)
 
+[![Mes Statistiques](https://leetcode-stats.vercel.app/api?username=SlicedPotatoes&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+
 Pour chacune des solutions vous trouverez un readme avec les informations suivantes:
 
 - L'énoncé décrivant le problème
