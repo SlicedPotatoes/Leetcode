@@ -58,3 +58,4 @@ Illustration d'une chaîne de caractères:
 | [10. Regular Expression Matching](../Probleme/0010.%20Regular%20Expression%20Matching/) | [`String`](./string.md), [`Dynamic Programming`](./dp.md), [`Recursion`](./recursion.md)                          | 05-03-2024 |
 | [32. Longest Valid Parentheses](../Probleme/0032.%20Longest%20Valid%20Parentheses/)     | [`String`](./string.md), [`Dynamic Programming`](./dp.md), [`Stack`](./stack.md)                                  | 27-04-2024 |
 | [44. Wildcard Matching](../Probleme/0044.%20Wildcard%20Matching/)                       | [`String`](./string.md), [`Dynamic Programming`](./dp.md), [`Greedy`](./greedy.md), [`Recursion`](./recursion.md) | 01-05-2024 |
+| [68. Text Justification](../Probleme/0068.%20Text%20Justification/)                     | [`Array`](./array.md), [`String`](./string.md), [`Simulation`](./simulation.md)                                   | 10-06-2024 |

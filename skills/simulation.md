@@ -19,5 +19,6 @@
 
 ### Difficile
 
-| Label | Tags | Date |
-| ----- | ---- | ---- |
+| Label                                                               | Tags                                                                            | Date       |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------- |
+| [68. Text Justification](../Probleme/0068.%20Text%20Justification/) | [`Array`](./array.md), [`String`](./string.md), [`Simulation`](./simulation.md) | 10-06-2024 |
