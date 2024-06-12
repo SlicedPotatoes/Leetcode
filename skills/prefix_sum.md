@@ -25,9 +25,10 @@ Le principe de **Prefix Sum** consiste à calculer la somme cumulative des élé
 
 ### Moyen
 
-| Label                                                                                          | Tags                                                   | Date       |
-| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ---------- |
-| [238. Product of Array Except Self](../Probleme/0238.%20Product%20of%20Array%20Except%20Self/) | [`Array`](./array.md), [`Prefix Sum`](./prefix_sum.md) | 22-02-2024 |
+| Label                                                                                                         | Tags                                                   | Date       |
+| ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ---------- |
+| [238. Product of Array Except Self](../Probleme/0238.%20Product%20of%20Array%20Except%20Self/)                | [`Array`](./array.md), [`Prefix Sum`](./prefix_sum.md) | 22-02-2024 |
+| [3096. Minimum Levels to Gain More Points](../Probleme/3096.%20Minimum%20Levels%20to%20Gain%20More%20Points/) | [`Array`](./array.md), [`Prefix Sum`](./prefix_sum.md) | 30-05-2024 |
 
 ### Difficile
 
