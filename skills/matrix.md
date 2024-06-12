@@ -11,6 +11,7 @@ Une **Matrice** est essentiellement un tableau de nombres organisé en lignes et
 | [463. Island Perimeter](../Probleme/0463.%20Island%20Perimeter/)                                                              | [`Array`](./array.md), [`Depth-First Search`](./dfs.md), [`Breadth-First Search`](./bfs.md), [`Matrix`](./matrix.md) | 27-04-2024 |
 | [1351. Count Negative Numbers in a Sorted Matrix](../Probleme/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) | [`Array`](./array.md), [`Binary Search`](./binary_search.md), [`Matrix`](./matrix.md)                                | 09-03-2024 |
 | [3127. Make a Square with the Same Color](../Probleme/3127.%20Make%20a%20Square%20with%20the%20Same%20Color/)                 | [`Array`](./array.md), [`Matrix`](./matrix.md), `Enumeration`                                                        | 27-03-2024 |
+| [3142. Check if Grid Satisfies Conditions](../Probleme/3142.%20Check%20if%20Grid%20Satisfies%20Conditions/)                   | [`Array`](./array.md), [`Matrix`](./matrix.md)                                                                       | 11-05-2024 |
 
 ### Moyen
 
