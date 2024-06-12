@@ -31,6 +31,7 @@ Un annuaire représenté comme une table de hachage. La fonction de hachage tran
 | [2215. Find the Difference of Two Arrays](../Probleme/2215.%20Find%20the%20Difference%20of%20Two%20Arrays/)                                       | [`Array`](./array.md), [`Hash Table`](./hash_table.md)                                                                                                          | 14-03-2024 |
 | [2540. Minimum Common Value](../Probleme/2540.%20Minimum%20Common%20Value/)                                                                       | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`Two Pointers`](./two_pointers.md), [`Binary Search`](./binary_search.md)                              | 09-03-2024 |
 | [3005. Count Elements With Maximum Frequency](../Probleme/3005.%20Count%20Elements%20With%20Maximum%20Frequency/)                                 | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`Counting`](./counting.md)                                                                             | 08-03-2024 |
+| [3146. Permutation Difference between Two Strings](../Probleme/3146.%20Permutation%20Difference%20between%20Two%20Strings/)                       | [`Hash Table`](./hash_table.md), [`String`](./string.md)                                                                                                        | 20-05-2024 |
 
 ### Moyen
 
