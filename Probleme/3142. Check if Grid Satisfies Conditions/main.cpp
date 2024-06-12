@@ -15,7 +15,7 @@ class Solution
                 }
             }
 
-            if (j != grid[0].size() - 1 && grid[0][j] == grid[0][j + 1])
+            if (j != grid[0].size() - 1 && curr == grid[0][j + 1])
             {
                 return false;
             }
