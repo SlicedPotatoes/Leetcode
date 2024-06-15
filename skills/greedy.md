@@ -30,6 +30,7 @@ Dans le système de pièces (1, 3, 4), l'algorithme glouton n'est pas optimal, c
 
 ### Difficile
 
-| Label                                                             | Tags                                                                                                              | Date       |
-| ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ---------- |
-| [44. Wildcard Matching](../Probleme/0044.%20Wildcard%20Matching/) | [`String`](./string.md), [`Dynamic Programming`](./dp.md), [`Greedy`](./greedy.md), [`Recursion`](./recursion.md) | 01-05-2024 |
+| Label                                                             | Tags                                                                                                                      | Date       |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [44. Wildcard Matching](../Probleme/0044.%20Wildcard%20Matching/) | [`String`](./string.md), [`Dynamic Programming`](./dp.md), [`Greedy`](./greedy.md), [`Recursion`](./recursion.md)         | 01-05-2024 |
+| [502. IPO](../Probleme/0502.%20IPO/)                              | [`Array`](./array.md), [`Greedy`](./greedy.md), [`Sorting`](./sorting.md), [`Heap (Priority Queue)`](./priority_queue.md) | 15-06-2024 |

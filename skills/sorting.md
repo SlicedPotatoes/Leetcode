@@ -28,4 +28,5 @@
 
 | Label                                                                                         | Tags                                                                                                                                                    | Date       |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [502. IPO](../Probleme/0502.%20IPO/)                                                          | [`Array`](./array.md), [`Greedy`](./greedy.md), [`Sorting`](./sorting.md), [`Heap (Priority Queue)`](./priority_queue.md)                               | 15-06-2024 |
 | [2092. Find All People With Secret](../Probleme/2092.%20Find%20All%20People%20With%20Secret/) | [`Depth-First Search`](./dfs.md), [`Breadth-First Search`](./bfs.md), [`Union Find`](./union_find.md), [`Graph`](./graph.md), [`Sorting`](./sorting.md) | 24-02-2024 |
