@@ -11,8 +11,9 @@ Grille de Sukodu résolue grâce au retour sur trace:
 
 ### Facile
 
-| Label | Tags | Date |
-| ----- | ---- | ---- |
+| Label                                                    | Tags                                                                             | Date       |
+| -------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------- |
+| [401. Binary Watch](../Probleme/0401.%20Binary%20Watch/) | [`Backtracking`](./backtracking.md), [`Bit Manipulation`](./bit_manipulation.md) | 18-06-2024 |
 
 ### Moyen
 
