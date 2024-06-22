@@ -29,6 +29,7 @@ Il existe également des opérations de décalage:
 
 | Label                                                                                                                       | Tags                                                                                                        | Date       |
 | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ---------- |
+| [3011. Find if Array Can Be Sorted](../Probleme/3011.%20Find%20if%20Array%20Can%20Be%20Sorted/)                             | [`Array`](./array.md), [`Bit Manipulation`](./bit_manipulation.md), [`Sorting`](./sorting.md)               | 22-06-2024 |
 | [3097. Shortest Subarray With OR at Least K II](../Probleme/3097.%20Shortest%20Subarray%20With%20OR%20at%20Least%20K%20II/) | [`Array`](./array.md), [`Bit Manipulation`](./bit_manipulation.md), [`Sliding Window`](./sliding_window.md) | 11-05-2024 |
 
 ### Difficile
