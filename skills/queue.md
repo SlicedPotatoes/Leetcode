@@ -15,9 +15,10 @@ Illustration de l'utilisation d'une file:
 
 ### Moyen
 
-| Label                                                    | Tags                                                                    | Date       |
-| -------------------------------------------------------- | ----------------------------------------------------------------------- | ---------- |
-| [649. Dota2 Senate](../Probleme/0649.%20Dota2%20Senate/) | [`String`](./string.md), [`Greedy`](./greedy.md), [`Queue`](./queue.md) | 18-04-2024 |
+| Label                                                                                                                                                                                                     | Tags                                                                                                                                                                                                                | Date       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [649. Dota2 Senate](../Probleme/0649.%20Dota2%20Senate/)                                                                                                                                                  | [`String`](./string.md), [`Greedy`](./greedy.md), [`Queue`](./queue.md)                                                                                                                                             | 18-04-2024 |
+| [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](../Probleme/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit/) | [`Array`](./array.md), [`Queue`](./queue.md), [`Sliding Window`](./sliding_window.md), [`Heap (Priority Queue)`](./priority_queue.md), [`Ordered Set`](./ordered_set.md), [`Monotonic Queue`](./monotonic_queue.md) | 23-06-2024 |
 
 ### Difficile
 
