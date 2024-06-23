@@ -15,9 +15,9 @@ Exemple d'un arbre binaire de recherche:
 
 ### Facile
 
-| Label                                                                                                  | Tags                                                                                                         | Date       |
-| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ---------- |
-| [703. Kth Largest Element in a Stream](../Probleme/0703.%20Kth%20Largest%20Element%20in%20a%20Stream/) | [`Tree`](./tree.md), [`Design`](./design.md), [`Binary Search Tree`](./binary_search_tree.md), `Data Stream` | 27-04-2024 |
+| Label                                                                                                  | Tags                                                                                                                                                                                            | Date       |
+| ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [703. Kth Largest Element in a Stream](../Probleme/0703.%20Kth%20Largest%20Element%20in%20a%20Stream/) | [`Tree`](./tree.md), [`Design`](./design.md), [`Binary Search Tree`](./binary_search_tree.md), [`Heap (Priority Queue)`](./priority_queue.md), [`Binary Tree`](./binary_tree.md), `Data Stream` | 27-04-2024 |
 
 ### Moyen
 

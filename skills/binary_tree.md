@@ -10,14 +10,14 @@ Un exemple simple d'arbre binaire:
 
 ### Facile
 
-| Label                                                                                                  | Tags                                                                                                                         | Date       |
-| ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [100. Same Tree](../Probleme/0100.%20Same%20Tree/)                                                     | [`Tree`](./tree.md), [`Depth-First Search`](./dfs.md), [`Breadth-First Search`](./bfs.md), [`Binary Tree`](./binary_tree.md) | 26-02-2024 |
-| [104. Maximum Depth of Binary Tree](../Probleme/0104.%20Maximum%20Depth%20of%20Binary%20Tree/)         | [`Tree`](./tree.md), [`Depth-First Search`](./dfs.md), [`Breadth-First Search`](./bfs.md), [`Binary Tree`](./binary_tree.md) | 31-03-2024 |
-| [226. Invert Binary Tree](../Probleme/0226.%20Invert%20Binary%20Tree/)                                 | [`Tree`](./tree.md), [`Depth-First Search`](./dfs.md), [`Breadth-First Search`](./bfs.md), [`Binary Tree`](./binary_tree.md) | 31-03-2024 |
-| [404. Sum of Left Leaves](../Probleme/0404.%20Sum%20of%20Left%20Leaves/)                               | [`Tree`](./tree.md), [`Depth-First Search`](./dfs.md), [`Breadth-First Search`](./bfs.md), [`Binary Tree`](./binary_tree.md) | 15-04-2024 |
-| [543. Diameter of Binary Tree](../Probleme/0543.%20Diameter%20of%20Binary%20Tree/)                     | [`Tree`](./tree.md), [`Depth-First Search`](./dfs.md), [`Binary Tree`](./binary_tree.md)                                     | 27-02-2024 |
-| [703. Kth Largest Element in a Stream](../Probleme/0703.%20Kth%20Largest%20Element%20in%20a%20Stream/) | [`Tree`](./tree.md), [`Design`](./design.md), [`Binary Search Tree`](./binary_search_tree.md), `Data Stream`                 | 27-04-2024 |
+| Label                                                                                                  | Tags                                                                                                                                                                                            | Date       |
+| ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [100. Same Tree](../Probleme/0100.%20Same%20Tree/)                                                     | [`Tree`](./tree.md), [`Depth-First Search`](./dfs.md), [`Breadth-First Search`](./bfs.md), [`Binary Tree`](./binary_tree.md)                                                                    | 26-02-2024 |
+| [104. Maximum Depth of Binary Tree](../Probleme/0104.%20Maximum%20Depth%20of%20Binary%20Tree/)         | [`Tree`](./tree.md), [`Depth-First Search`](./dfs.md), [`Breadth-First Search`](./bfs.md), [`Binary Tree`](./binary_tree.md)                                                                    | 31-03-2024 |
+| [226. Invert Binary Tree](../Probleme/0226.%20Invert%20Binary%20Tree/)                                 | [`Tree`](./tree.md), [`Depth-First Search`](./dfs.md), [`Breadth-First Search`](./bfs.md), [`Binary Tree`](./binary_tree.md)                                                                    | 31-03-2024 |
+| [404. Sum of Left Leaves](../Probleme/0404.%20Sum%20of%20Left%20Leaves/)                               | [`Tree`](./tree.md), [`Depth-First Search`](./dfs.md), [`Breadth-First Search`](./bfs.md), [`Binary Tree`](./binary_tree.md)                                                                    | 15-04-2024 |
+| [543. Diameter of Binary Tree](../Probleme/0543.%20Diameter%20of%20Binary%20Tree/)                     | [`Tree`](./tree.md), [`Depth-First Search`](./dfs.md), [`Binary Tree`](./binary_tree.md)                                                                                                        | 27-02-2024 |
+| [703. Kth Largest Element in a Stream](../Probleme/0703.%20Kth%20Largest%20Element%20in%20a%20Stream/) | [`Tree`](./tree.md), [`Design`](./design.md), [`Binary Search Tree`](./binary_search_tree.md), [`Heap (Priority Queue)`](./priority_queue.md), [`Binary Tree`](./binary_tree.md), `Data Stream` | 27-04-2024 |
 
 ### Moyen
 
