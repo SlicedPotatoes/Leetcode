@@ -21,8 +21,9 @@ Exemple d'un arbre binaire de recherche:
 
 ### Moyen
 
-| Label | Tags | Date |
-| ----- | ---- | ---- |
+| Label                                                                                                                   | Tags                                                                                                                                      | Date       |
+| ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [1038. Binary Search Tree to Greater Sum Tree](../Probleme/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree/) | [`Tree`](./tree.md), [`Depth-First Search`](./dfs.md), [`Binary Search Tree`](./binary_search_tree.md), [`Binary Tree`](./binary_tree.md) | 25-06-2024 |
 
 ### Difficile
 
