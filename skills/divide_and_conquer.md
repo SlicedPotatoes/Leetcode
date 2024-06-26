@@ -15,8 +15,9 @@ Trois étapes (diviser, régner, combiner) illustrées avec l'algorithme du tri 
 
 ### Moyen
 
-| Label | Tags | Date |
-| ----- | ---- | ---- |
+| Label                                                                                           | Tags                                                                                                                                                                                                                | Date       |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [1382. Balance a Binary Search Tree](../Probleme/1382.%20Balance%20a%20Binary%20Search%20Tree/) | [`Divide and Conquer`](./divide_and_conquer.md), [`Greedy`](./greedy.md), [`Tree`](./tree.md), [`Depth-First Search`](./dfs.md), [`Binary Search Tree`](./binary_search_tree.md), [`Binary Tree`](./binary_tree.md) | 26-06-2024 |
 
 ### Difficile
 
