@@ -9,9 +9,10 @@ Illustration d'un graphe:
 
 ### Facile
 
-| Label                                                                      | Tags                                                                          | Date       |
-| -------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ---------- |
-| [997. Find the Town Judge](../Probleme/0997.%20Find%20the%20Town%20Judge/) | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`Graph`](./graph.md) | 22-02-2024 |
+| Label                                                                                     | Tags                                                                          | Date       |
+| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ---------- |
+| [997. Find the Town Judge](../Probleme/0997.%20Find%20the%20Town%20Judge/)                | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`Graph`](./graph.md) | 22-02-2024 |
+| [1791. Find Center of Star Graph](../Probleme/1791.%20Find%20Center%20of%20Star%20Graph/) | [`Graph`](./graph.md)                                                         | 27-06-2024 |
 
 ### Moyen
 
