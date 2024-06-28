@@ -16,8 +16,9 @@ Illustration d'un graphe:
 
 ### Moyen
 
-| Label | Tags | Date |
-| ----- | ---- | ---- |
+| Label                                                                                                     | Tags                                                                                                                      | Date       |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [2285. Maximum Total Importance of Roads](../Probleme/2285.%20Maximum%20Total%20Importance%20of%20Roads/) | [`Greedy`](./greedy.md), [`Graph`](./graph.md), [`Sorting`](./sorting.md), [`Heap (Priority Queue)`](./priority_queue.md) | 28-06-2024 |
 
 ### Difficile
 
