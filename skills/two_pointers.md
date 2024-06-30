@@ -26,6 +26,7 @@ Le principe des **deux pointeurs** est une technique couramment utilisée en pro
 | [977. Squares of a Sorted Array](../Probleme/0977.%20Squares%20of%20a%20Sorted%20Array/)                                                            | [`Array`](./array.md), [`Two Pointers`](./two_pointers.md), [`Sorting`](./sorting.md)                                              | 02-03-2024 |
 | [1768. Merge Strings Alternately](../Probleme/1768.%20Merge%20Strings%20Alternately/)                                                               | [`String`](./string.md), [`Two Pointers`](./two_pointers.md)                                                                       | 20-02-2024 |
 | [2540. Minimum Common Value](../Probleme/2540.%20Minimum%20Common%20Value/)                                                                         | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`Two Pointers`](./two_pointers.md), [`Binary Search`](./binary_search.md) | 09-03-2024 |
+| [2824. Count Pairs Whose Sum is Less than Target](../Probleme/2824.%20Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target/)                     | [`Array`](./array.md), [`Two Pointers`](./two_pointers.md), [`Binary Search`](./binary_search.md), [`Sorting`](./sorting.md)       | 30-06-2024 |
 
 ### Moyen
 
