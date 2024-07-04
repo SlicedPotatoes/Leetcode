@@ -2,13 +2,13 @@
 
 ## Énoncé
 
-Étant donné un tableau de nombres entiers et une cible entière, renvoie les indices des deux nombres tels que la somme est égale à la cible.
+Étant donné un tableau d'entiers `nums` et un entier `target`, retournez les indices des deux nombres tels que leur somme est égale à `target`.
 
-Vous pouvez supposer que chaque entrée aurait exactement une solution et vous ne pouvez pas utiliser deux fois le même élément.
+Vous pouvez supposer qu'il existe exactement **une solution**, pour chaque entrée, et vous ne pouvez pas utiliser le même élément deux fois.
 
-Vous pouvez renvoyer la réponse dans n'importe quel ordre.
+Vous pouvez retourner la réponse dans n'importe quel ordre.
 
-Pouvez-vous proposer un algorithme dont la complexité temporelle est inférieure à O(n^2) ?
+Pouvez-vous proposer un algorithme dont la complexité temporelle est inférieure à `O(n^2)` ?
 
 ## Exemple
 
