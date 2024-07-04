@@ -2,7 +2,7 @@
 
 ## Énoncé
 
-Étant donné un string s, recherchez la longueur du substring le plus long sans répéter de caractères.
+Étant donné un string `s`, recherchez la longueur du substring le plus long sans répéter de caractères.
 
 ## Exemple
 
