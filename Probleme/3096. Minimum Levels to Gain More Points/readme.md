@@ -12,7 +12,7 @@ Alice veut savoir le nombre **minimum** de niveaux qu'elle doit jouer pour obten
 
 Retournez le **nombre minimum** de niveaux qu'Alice doit jouer pour obtenir plus de points. Si cela n'est pas possible, retournez `-1`.
 
-**Note** ue chaque joueur doit jouer au moins `1` niveau.
+**Note** que chaque joueur doit jouer au moins `1` niveau.
 
 ## Exemple
 
