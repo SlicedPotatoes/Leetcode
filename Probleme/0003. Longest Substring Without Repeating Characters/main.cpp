@@ -4,37 +4,32 @@ class Solution
   public:
     int lengthOfLongestSubstring(string s)
     {
-        int start = 0; // Index de depart du substring
-        int best = 0;  // Longeur du plus long substring trouvé
+        // unordered_map pour stocker les positions des caractères
+        unordered_map<char, int> mp;
+        int ans = -1;
 
-        unordered_map<char, int> seen; // Stocke les caractères déjà rencontrés avec leurs indices
-        // Parcours la chaîne caractère par caractère
-        for (int j = 0; j < s.size(); j++)
+        int left = 0; // Pointe vers le début de la fenêtre glissante
+
+        // Parcourir chaque caractère de la chaîne
+        for (int right = 0; right < s.size(); right++)
         {
-            // Si le caractère actuel est déjà dans la hashmap
-            if (seen.find(s[j]) != seen.end())
+            // Rechercher la position précédente du caractère actuel
+            auto it = mp.find(s[right]);
+
+            // Si le caractère est déjà dans la fenêtre actuelle et sa position est >= left
+            if (it != mp.end() && it->second >= left)
             {
-                int length = j - start; // Calcul de la longueur du substring
-                // Si elle est supérieure à la meilleure trouvée, met à jour la valeur de best
-                if (length > best)
-                {
-                    best = length;
-                }
-                // Si le caractère trouvé est après l'indice de départ du sous-chaîne, met à jour l'indice de départ
-                if (seen[s[j]] >= start)
-                {
-                    start = seen[s[j]] + 1;
-                }
+                // Déplacer le début de la fenêtre après la position de ce caractèr
+                left = it->second + 1;
             }
-            seen[s[j]] = j; // Enregistre le caractère avec son indice dans la chaîne
+
+            // Mettre à jour la position actuelle du caractère dans le map
+            mp[s[right]] = right;
+
+            // Calculer la longueur actuelle de la sous-chaîne sans répétition et mettre à jour ans
+            ans = max(ans, right - left);
         }
 
-        // Vérifie s'il reste des caractères non examinés à la fin de la chaîne
-        if (best < s.size() - start)
-        {
-            best = s.size() - start;
-        }
-
-        return best;
+        return ans + 1; // Retourner la longueur de la plus longue sous-chaîne sans répétition
     }
 };
