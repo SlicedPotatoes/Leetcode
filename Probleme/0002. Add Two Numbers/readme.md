@@ -2,7 +2,7 @@
 
 ## Énoncé
 
-Vous recevez deux listes chaînées non vides représentant deux entiers non négatifs. Les chiffres sont stockés dans l'ordre inverse et chacun de leurs nœuds contient un seul chiffre. Ajoutez les deux nombres et renvoyez la somme sous forme de liste chaînée.
+Vous recevez deux listes chaînées **non vides** représentant deux entiers non négatifs. Les chiffres sont stockés dans **l'ordre inverse** et chacun de leurs nœuds contient un seul chiffre. Ajoutez les deux nombres et renvoyez la somme sous forme de liste chaînée.
 
 Vous pouvez supposer que les deux nombres ne contiennent aucun zéro non significatif, à l’exception du nombre 0 lui-même.
 
