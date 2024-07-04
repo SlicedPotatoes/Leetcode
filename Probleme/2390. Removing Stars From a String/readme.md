@@ -2,19 +2,19 @@
 
 ## Énoncé
 
-You are given a string `s`, which contains stars `*`.
+Vous avez une chaîne de caractères `s`, qui contient des étoiles `*`.
 
-In one operation, you can:
+En une opération, vous pouvez:
 
-- Choose a star in `s`.
-- Remove the closest **non-star** character to its **left**, as well as remove the star itself.
+- Choisir une étoile dans `s`.
+- Supprimer le caractère **non-étoile** le plus proche à sa **gauche**, ainsi que supprimer l'étoile elle-même.
 
-Return the string after **all** stars have been removed.
+Retournez la chaîne après que **toutes** les étoiles ont été supprimées.
 
 **Note:**
 
-- The input will be generated such that the operation is always possible.
-- It can be shown that the resulting string will always be unique.
+- L'entrée sera générée de manière à ce que l'opération soit toujours possible.
+- Il peut être démontré que la chaîne résultante sera toujours unique.
 
 ## Exemple
 
@@ -23,23 +23,24 @@ Return the string after **all** stars have been removed.
 **Output:** "lecoe"  
 **Explication:**
 
-Performing the removals from left to right:
+Effectuer les suppressions de gauche à droite:
 
-- The closest character to the 1st star is 't' in `"leet**cod*e"`. s becomes `"lee*cod*e"`.
-- The closest character to the 2nd star is 'e' in `"lee*cod*e"`. s becomes `"lecod*e"`.
-- The closest character to the 3rd star is 'd' in `"lecod*e"`. s becomes `"lecoe"`.
-  There are no more stars, so we return "lecoe".
+- Le caractère le plus proche de la 1ère étoile est 't' dans `"leet**cod*e"`. s devient `"lee*cod*e"`.
+- Le caractère le plus proche de la 2nd étoile est 'e' dans `"lee*cod*e"`. s devient `"lecod*e"`.
+- Le caractère le plus proche de la 3rd étoile est 'd' dans `"lecod*e"`. s devient `"lecoe"`.
+
+Il n'y a plus d'étoiles, donc nous retournons "lecoe".
 
 **Exemple 2:**  
 **Input:** s = `"erase*****"`  
 **Output:** ""  
-**Explication:** The entire string is removed, so we return an empty string.
+**Explication:** La chaîne entière est supprimée, nous renvoyons donc une chaîne vide.
 
 ## Contraintes
 
 `1 <= s.length <= 10^5`  
-`s` consists of lowercase English letters and stars `*`.  
-The operation above can be performed on `s`.
+`s` se compose de lettres anglaises minuscules et d'étoiles `*`.  
+L'opération ci-dessus peut être effectuée sur `s`.
 
 ## Note personnelle
 
