@@ -30,6 +30,7 @@ Une liste chaînée, composée de trois éléments ayant respectivement la valeu
 | [143. Reorder List](../Probleme/0143.%20Reorder%20List/)                                                  | [`Linked List`](./linked_list.md), [`Two Pointers`](./two_pointers.md), [`Stack`](./stack.md), [`Recursion`](./recursion.md) | 23-03-2024 |
 | [328. Odd Even Linked List](../Probleme/0328.%20Odd%20Even%20Linked%20List/)                              | [`Linked List`](./linked_list.md)                                                                                            | 18-04-2024 |
 | [1669. Merge In Between Linked Lists](../Probleme/1669.%20Merge%20In%20Between%20Linked%20Lists/)         | [`Linked List`](./linked_list.md)                                                                                            | 20-03-2024 |
+| [2181. Merge Nodes in Between Zeros](../Probleme/2181.%20Merge%20Nodes%20in%20Between%20Zeros/)           | [`Linked List`](./linked_list.md), [`Simulation`](./simulation.md)                                                           | 04-07-2024 |
 
 ### Difficile
 
