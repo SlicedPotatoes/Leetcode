@@ -11,67 +11,62 @@
 class Solution
 {
   public:
+    // Fonction pour ajouter deux nombres représentés par des listes chaînées
     ListNode *addTwoNumbers(ListNode *l1, ListNode *l2)
     {
-        ListNode *result = new ListNode(); // Création d'une liste chaînée pour stocker les résultats.
-        ListNode *currentNode = result;    // Le noeud courant de la liste chaînée.
-        int leftover = 0;                  // Stocke la retenue de l'opération en cours.
+        ListNode *ans = new ListNode(-1); // Nœud factice pour la liste résultat
+        ListNode *currAns = ans;          // Pointeur pour construire la liste résultat
 
-        // Effectue l'addition en parcourant la liste chaînée.
-        while (true)
+        ListNode *currL1 = l1; // Pointeur pour parcourir la première liste
+        ListNode *currL2 = l2; // Pointeur pour parcourir la deuxième liste
+        bool carry = false;    // Variable pour gérer la retenue
+
+        // Parcours des deux listes tant qu'il y a des nœuds dans les deux
+        while (currL1 && currL2)
         {
-            // Valeur de l'élément courant dans la liste chaînée initialisée à zéro.
-            int l1Value = 0;
-            int l2Value = 0;
+            int sum = currL1->val + currL2->val + (carry ? 1 : 0); // Somme des valeurs des nœuds et de la retenue
+            carry = sum >= 10;                                     // Mise à jour de la retenue
+            sum %= 10;                                             // Extraction de la dernière chiffre de la somme
 
-            // Si l'élément de la liste chaînée n'est pas nul, on récupère sa valeur et change le pointeur de l'élément
-            // courant.
-            if (l1 != nullptr)
-            {
-                l1Value = l1->val;
-                l1 = l1->next;
-            }
-            if (l2 != nullptr)
-            {
-                l2Value = l2->val;
-                l2 = l2->next;
-            }
+            currAns->next = new ListNode(sum); // Création d'un nouveau nœud avec la somme
+            currAns = currAns->next;           // Déplacement du pointeur de la liste résultat
 
-            // On effectue l'addition avec la retenue.
-            int sum = l1Value + l2Value + leftover;
-
-            // On calcule la prochaine retenue.
-            if (sum >= 10)
-            {
-                leftover = 1;
-                sum -= 10;
-            }
-            else
-            {
-                leftover = 0;
-            }
-
-            // Ajout du résultat à la liste chaînée de sortie.
-            currentNode->val = sum;
-            if (l1 != nullptr || l2 != nullptr)
-            {
-                currentNode->next = new ListNode();
-                currentNode = currentNode->next;
-            }
-            else
-            {
-                // Si une retenue est présente à la fin, on crée un nouveau noeud pour l'ajouter.
-                if (leftover == 1)
-                {
-                    currentNode->next = new ListNode();
-                    currentNode = currentNode->next;
-                    currentNode->val = 1;
-                }
-                // Fin du traitement, sortie de la boucle.
-                break;
-            }
+            currL1 = currL1->next; // Déplacement du pointeur de la première liste
+            currL2 = currL2->next; // Déplacement du pointeur de la deuxième liste
         }
 
-        return result;
+        // Parcours des nœuds restants de la première liste, s'il y en a
+        while (currL1)
+        {
+            int val = currL1->val + (carry ? 1 : 0);
+            carry = val >= 10;
+            val %= 10;
+
+            currAns->next = new ListNode(val);
+            currAns = currAns->next;
+
+            currL1 = currL1->next;
+        }
+
+        // Parcours des nœuds restants de la deuxième liste, s'il y en a
+        while (currL2)
+        {
+            int val = currL2->val + (carry ? 1 : 0);
+            carry = val >= 10;
+            val %= 10;
+
+            currAns->next = new ListNode(val);
+            currAns = currAns->next;
+
+            currL2 = currL2->next;
+        }
+
+        // Si il y a une retenue après avoir parcouru les deux listes, ajouter un nouveau nœud
+        if (carry)
+        {
+            currAns->next = new ListNode(1);
+        }
+
+        return ans->next; // Retourne la tête de la liste résultat en ignorant le nœud factice
     }
 };
