@@ -28,10 +28,11 @@ Visualisation d'une recherche dichotomique, où 4 est la valeur recherchée:
 
 ### Moyen
 
-| Label                                                                                                                                                         | Tags                                                         | Date       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ---------- |
-| [33. Search in Rotated Sorted Array](../Probleme/0034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/)                          | [`Array`](./array.md), [`Binary Search`](./binary_search.md) | 03-05-2024 |
-| [34. Find First and Last Position of Element in Sorted Array](../Probleme/0034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/) | [`Array`](./array.md), [`Binary Search`](./binary_search.md) | 09-03-2024 |
+| Label                                                                                                                                                         | Tags                                                                                                                                              | Date       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [33. Search in Rotated Sorted Array](../Probleme/0034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/)                          | [`Array`](./array.md), [`Binary Search`](./binary_search.md)                                                                                      | 03-05-2024 |
+| [34. Find First and Last Position of Element in Sorted Array](../Probleme/0034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/) | [`Array`](./array.md), [`Binary Search`](./binary_search.md)                                                                                      | 09-03-2024 |
+| [3143. Maximum Points Inside the Square](../Probleme/3143.%20Maximum%20Points%20Inside%20the%20Square/)                                                       | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`String`](./string.md), [`Binary Search`](./binary_search.md), [`Sorting`](./sorting.md) | 06-07-2024 |
 
 ### Difficile
 

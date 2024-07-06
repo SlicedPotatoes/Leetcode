@@ -26,6 +26,7 @@
 | [3075. Maximize Happiness of Selected Children](../Probleme/3075.%20Maximize%20Happiness%20of%20Selected%20Children/)                                       | [`Array`](./array.md), [`Greedy`](./greedy.md), [`Sorting`](./sorting.md)                                                                                                                 | 09-05-2024 |
 | [3080. Mark Elements on Array by Performing Queries](../Probleme/3080.%20Mark%20Elements%20on%20Array%20by%20Performing%20Queries/)                         | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`Sorting`](./sorting.md), [`Heap (Priority Queue)`](./priority_queue.md), [`Simulation`](./simulation.md)                        | 16-03-2024 |
 | [3081. Replace Question Marks in String to Minimize Its Value](../Probleme/3081.%20Replace%20Question%20Marks%20in%20String%20to%20Minimize%20Its%20Value/) | [`Hash Table`](./hash_table.md), [`String`](./string.md), [`Greedy`](./greedy.md), [`Sorting`](./sorting.md), [`Heap (Priority Queue)`](./priority_queue.md), [`Counting`](./counting.md) | 22-03-2024 |
+| [3143. Maximum Points Inside the Square](../Probleme/3143.%20Maximum%20Points%20Inside%20the%20Square/)                                                     | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`String`](./string.md), [`Binary Search`](./binary_search.md), [`Sorting`](./sorting.md)                                         | 06-07-2024 |
 
 ### Difficile
 
