@@ -6,6 +6,7 @@
 | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [67. Add Binary](../Probleme/0067.%20Add%20Binary/)                         | [`Math`](./math.md), [`String`](./string.md), [`Bit Manipulation`](./bit_manipulation.md), [`Simulation`](./simulation.md) | 04-03-2024 |
 | [415. Add Strings](../Probleme/0415.%20Add%20Strings/)                      | [`Math`](./math.md), [`String`](./string.md), [`Simulation`](./simulation.md)                                              | 09-03-2024 |
+| [1518. Water Bottles](../Probleme/1518.%20Water%20Bottles/)                 | [`Math`](./math.md), [`Simulation`](./simulation.md)                                                                       | 07-07-2024 |
 | [2582. Pass the Pillow](../Probleme/2582.%20Pass%20the%20Pillow/)           | [`Math`](./math.md), [`Simulation`](./simulation.md)                                                                       | 06-07-2024 |
 | [3028. Ant on the Boundary](../Probleme/3028.%20Ant%20on%20the%20Boundary/) | [`Array`](./array.md), [`Prefix Sum`](./prefix_sum.md), [`Simulation`](./simulation.md)                                    | 26-02-2024 |
 
