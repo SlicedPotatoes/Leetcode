@@ -11,8 +11,9 @@ Une **Monotonic Stack** ou **Pile monotone** est une structure de données utili
 
 ### Moyen
 
-| Label | Tags | Date |
-| ----- | ---- | ---- |
+| Label                                                                                             | Tags                                                                                                                               | Date       |
+| ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [2487. Remove Nodes From Linked List](../Probleme/2487.%20Remove%20Nodes%20From%20Linked%20List/) | [`Linked List`](./linked_list.md), [`Stack`](./stack.md), [`Recursion`](./recursion.md), [`Monotonic Stack`](./monotonic_stack.md) | 06-05-2024 |
 
 ### Difficile
 
