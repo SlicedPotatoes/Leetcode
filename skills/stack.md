@@ -14,6 +14,7 @@ Illustration de l'utilisation d'une pile:
 | [20. Valid Parentheses](../Probleme/0020.%20Valid%20Parentheses/)                            | [`String`](./string.md), [`Stack`](./stack.md)                                                                               | 25-03-2024 |
 | [225. Implement Stack using Queues](../Probleme/0225.%20Implement%20Stack%20using%20Queues/) | [`Stack`](./stack.md), [`Design`](./design.md), [`Queue`](./queue.md)                                                        | 15-03-2024 |
 | [234. Palindrome Linked List](../Probleme/0234.%20Palindrome%20Linked%20List/)               | [`Linked List`](./linked_list.md), [`Two Pointers`](./two_pointers.md), [`Stack`](./stack.md), [`Recursion`](./recursion.md) | 22-03-2024 |
+| [1598. Crawler Log Folder](../Probleme/1598.%20Crawler%20Log%20Folder/)                      | [`Array`](./array.md), [`String`](./string.md), [`Stack`](./stack.md)                                                        | 10-07-2024 |
 
 ### Moyen
 
