@@ -26,6 +26,7 @@
 
 ### Difficile
 
-| Label                                                               | Tags                                                                            | Date       |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------- |
-| [68. Text Justification](../Probleme/0068.%20Text%20Justification/) | [`Array`](./array.md), [`String`](./string.md), [`Simulation`](./simulation.md) | 10-06-2024 |
+| Label                                                               | Tags                                                                                                     | Date       |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------- |
+| [68. Text Justification](../Probleme/0068.%20Text%20Justification/) | [`Array`](./array.md), [`String`](./string.md), [`Simulation`](./simulation.md)                          | 10-06-2024 |
+| [2751. Robot Collisions](../Probleme/2751.%20Robot%20Collisions/)   | [`Array`](./array.md), [`Stack`](./stack.md), [`Sorting`](./sorting.md), [`Simulation`](./simulation.md) | 13-07-2024 |
