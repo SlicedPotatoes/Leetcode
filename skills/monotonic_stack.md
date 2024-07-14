@@ -17,5 +17,6 @@ Une **Monotonic Stack** ou **Pile monotone** est une structure de données utili
 
 ### Difficile
 
-| Label | Tags | Date |
-| ----- | ---- | ---- |
+| Label                                                                   | Tags                                                                                                                                                           | Date       |
+| ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [42. Trapping Rain Water](../Probleme/0042.%20Trapping%20Rain%20Water/) | [`Array`](./array.md), [`Two Pointers`](./two_pointers.md), [`Dynamic Programming`](./dp.md), [`Stack`](./stack.md), [`Monotonic Stack`](./monotonic_stack.md) | 20-05-2024 |

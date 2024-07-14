@@ -39,7 +39,7 @@
 | [2816. Double a Number Represented as a Linked List](../Probleme/2816.%20Double%20a%20Number%20Represented%20as%20a%20Linked%20List/) | [`Linked List`](./linked_list.md), [`Math`](./math.md), [`Stack`](./stack.md)                                                     | 04-07-2024 |
 | [3100. Water Bottles II](../Probleme/3100.%20Water%20Bottles%20II/)                                                                   | [`Math`](./math.md), [`Simulation`](./simulation.md)                                                                              | 07-07-2024 |
 | [3101. Count Alternating Subarrays](../Probleme/3101.%20Count%20Alternating%20Subarrays/)                                             | [`Array`](./array.md), [`Math`](./math.md)                                                                                        | 11-05-2024 |
-| [3128. Right Triangles](../Probleme/3128.%20Right%20Triangles/)                                                                       | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`Math`](./math.md), `Combinatorics`, `Counting`                          | 10-05-2024 |
+| [3128. Right Triangles](../Probleme/3128.%20Right%20Triangles/)                                                                       | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`Math`](./math.md), `Combinatorics`, [`Counting`](./counting.md)         | 10-05-2024 |
 
 ### Difficile
 
