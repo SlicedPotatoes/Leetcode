@@ -54,6 +54,7 @@ Un annuaire représenté comme une table de hachage. La fonction de hachage tran
 
 ### Difficile
 
-| Label                                                                         | Tags                                                   | Date       |
-| ----------------------------------------------------------------------------- | ------------------------------------------------------ | ---------- |
-| [41. First Missing Positive](../Probleme/0041.%20First%20Missing%20Positive/) | [`Array`](./array.md), [`Hash Table`](./hash_table.md) | 26-03-2024 |
+| Label                                                                         | Tags                                                                                                       | Date       |
+| ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------- |
+| [41. First Missing Positive](../Probleme/0041.%20First%20Missing%20Positive/) | [`Array`](./array.md), [`Hash Table`](./hash_table.md)                                                     | 26-03-2024 |
+| [726. Number of Atoms](../Probleme/0726.%20Number%20of%20Atoms/)              | [`Hash Table`](./hash_table.md), [`String`](./string.md), [`Stack`](./stack.md), [`Sorting`](./sorting.md) | 14-07-2024 |
