@@ -21,6 +21,7 @@ Le principe de **Prefix Sum** consiste à calculer la somme cumulative des élé
 | [1893. Check if All the Integers in a Range Are Covered](../Probleme/1893.%20Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered/) | [`Array`](./array.md), [`Prefix Sum`](./prefix_sum.md), [`Hash Table`](./hash_table.md) | 26-02-2024 |
 | [1991. Find the Middle Index in Array](../Probleme/1991.%20Find%20the%20Middle%20Index%20in%20Array/)                                             | [`Array`](./array.md), [`Prefix Sum`](./prefix_sum.md)                                  | 26-02-2024 |
 | [2485. Find the Pivot Integer](../Probleme/2485.%20Find%20the%20Pivot%20Integer/)                                                                 | [`Prefix Sum`](./prefix_sum.md), [`Math`](./math.md)                                    | 13-03-2024 |
+| [2574. Left and Right Sum Differences](../Probleme/2574.%20Left%20and%20Right%20Sum%20Differences/)                                               | [`Array`](./array.md), [`Prefix Sum`](./prefix_sum.md)                                  | 21-05-2024 |
 | [3028. Ant on the Boundary](../Probleme/3028.%20Ant%20on%20the%20Boundary/)                                                                       | [`Array`](./array.md), [`Prefix Sum`](./prefix_sum.md), [`Simulation`](./simulation.md) | 26-02-2024 |
 
 ### Moyen
