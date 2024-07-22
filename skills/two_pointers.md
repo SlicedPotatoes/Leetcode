@@ -40,6 +40,7 @@ Le principe des **deux pointeurs** est une technique couramment utilisée en pro
 | [948. Bag of Tokens](../Probleme/0948.%20Bag%20of%20Tokens/)                                                                                          | [`Array`](./array.md), [`Greedy`](./greedy.md), [`Two Pointers`](./two_pointers.md), [`Sorting`](./sorting.md)               | 04-03-2024 |
 | [1679. Max Number of K-Sum Pairs](../Probleme/1679.%20Max%20Number%20of%20K-Sum%20Pairs/)                                                             | [`Array`](./array.md), [`Two Pointers`](./two_pointers.md), [`Sorting`](./sorting.md), [`Hash Table`](./hash_table.md)       | 13-03-2024 |
 | [1750. Minimum Length of String After Deleting Similar Ends](../Probleme/1750.%20Minimum%20Length%20of%20String%20After%20Deleting%20Similar%20Ends/) | [`String`](./string.md), [`Two Pointers`](./two_pointers.md)                                                                 | 05-03-2024 |
+| [2486. Append Characters to String to Make Subsequence](../Probleme/2486.%20Append%20Characters%20to%20String%20to%20Make%20Subsequence/)             | [`Two Pointers`](./two_pointers.md), [`String`](./string.md), [`Greedy`](./greedy.md)                                        | 03-06-2024 |
 
 ### Difficile
 
