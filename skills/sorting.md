@@ -10,6 +10,7 @@
 | [242. Valid Anagram](../Probleme/0242.%20Valid%20Anagram/)                                                                      | [`Hash Table`](./hash_table.md), [`String`](./string.md), [`Sorting`](./sorting.md)                                                                             | 30-03-2024 |
 | [349. Intersection of Two Arrays](../Probleme/0349.%20Intersection%20of%20Two%20Arrays/)                                        | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`Binary Search`](./binary_search.md), [`Sorting`](./sorting.md)                                        | 10-03-2024 |
 | [997. Find the Town Judge](../Probleme/0997.%20Find%20the%20Town%20Judge/)                                                      | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`Graph`](./graph.md)                                                                                   | 22-02-2024 |
+| [2418. Sort the People](../Probleme/2418.%20Sort%20the%20People/)                                                               | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`String`](./string.md), [`Sorting`](./sorting.md)                                                      | 22-07-2024 |
 | [2824. Count Pairs Whose Sum is Less than Target](../Probleme/2824.%20Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target/) | [`Array`](./array.md), [`Two Pointers`](./two_pointers.md), [`Binary Search`](./binary_search.md), [`Sorting`](./sorting.md)                                    | 30-06-2024 |
 
 ### Moyen
