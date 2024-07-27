@@ -19,6 +19,7 @@ Illustration d'un graphe:
 | Label                                                                                                     | Tags                                                                                                                      | Date       |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [2285. Maximum Total Importance of Roads](../Probleme/2285.%20Maximum%20Total%20Importance%20of%20Roads/) | [`Greedy`](./greedy.md), [`Graph`](./graph.md), [`Sorting`](./sorting.md), [`Heap (Priority Queue)`](./priority_queue.md) | 28-06-2024 |
+| [2976. Minimum Cost to Convert String I](../Probleme/2976.%20Minimum%20Cost%20to%20Convert%20String%20I/) | [`Array`](./array.md), [`String`](./string.md), [`Graph`](./graph.md), [`Shortest Path`](./shortest_path.md)              | 27-07-2024 |
 
 ### Difficile
 
