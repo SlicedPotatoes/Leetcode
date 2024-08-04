@@ -49,6 +49,9 @@ Chaque catégorie redirigera vers un fichier readme comprenant la liste des exer
 - [Trie](./skills/trie.md)
 - [Merge Sort](./skills/merge_sort.md)
 - [Binary Search Tree](./skills/binary_search_tree.md)
+- [Monotonic Queue](./skills/monotonic_queue.md)
+- [Monotinic Stack](./skills/monotonic_stack.md)
+- [Ordered Set](./skills/ordered_set.md)
 
 ### Avancée
 
@@ -57,3 +60,4 @@ Chaque catégorie redirigera vers un fichier readme comprenant la liste des exer
 - [Divide and Conquer](./skills/divide_and_conquer.md)
 - [Union Find](./skills/union_find.md)
 - [Backtracking](./skills/backtracking.md)
+- [Shortest Path](./skills/shortest_path.md)
