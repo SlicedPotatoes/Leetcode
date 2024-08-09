@@ -24,6 +24,7 @@ Une **Matrice** est essentiellement un tableau de nombres organisé en lignes et
 | [200. Number of Islands](../Probleme/0200.%20Number%20of%20Islands/) | [`Array`](./array.md), [`Depth-First Search`](./dfs.md), [`Breadth-First Search`](./bfs.md), [`Union Find`](./union_find.md), [`Matrix`](./matrix.md) | 19-04-2024 |
 | [289. Game of Life](../Probleme/0289.%20Game%20of%20Life/)           | [`Array`](./array.md), [`Matrix`](./matrix.md), [`Simulation`](./simulation.md)                                                                       | 06-03-2024 |
 | [542. 01 Matrix](../Probleme/0542.%2001%20Matrix/)                   | [`Array`](./array.md), [`Dynamic Programming`](./dp.md), [`Breadth-First Search`](./bfs.md), [`Matrix`](./matrix.md)                                  | 27-04-2024 |
+| [885. Spiral Matrix III](../Probleme/0885.%20Spiral%20Matrix%20III/) | [`Array`](./array.md), [`Matrix`](./matrix.md), [`Simulation`](./simulation.md)                                                                       | 09-08-2024 |
 | [934. Shortest Bridge](../Probleme/0934.%20Shortest%20Bridge/)       | [`Array`](./array.md), [`Depth-First Search`](./dfs.md), [`Breadth-First Search`](./bfs.md), [`Matrix`](./matrix.md)                                  | 29-03-2024 |
 | [2326. Spiral Matrix IV](../Probleme/2326.%20Spiral%20Matrix%20IV/)  | [`Array`](./array.md), [`Matrix`](./matrix.md), [`Simulation`](./simulation.md), [`Linked List`](./linked_list.md)                                    | 09-08-2024 |
 
