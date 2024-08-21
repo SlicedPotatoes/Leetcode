@@ -19,9 +19,10 @@ Illustration de l'utilisation d'union find:
 
 ### Moyen
 
-| Label                                                                | Tags                                                                                                                                                  | Date       |
-| -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [200. Number of Islands](../Probleme/0200.%20Number%20of%20Islands/) | [`Array`](./array.md), [`Depth-First Search`](./dfs.md), [`Breadth-First Search`](./bfs.md), [`Union Find`](./union_find.md), [`Matrix`](./matrix.md) | 19-04-2024 |
+| Label                                                                                                   | Tags                                                                                                                                                       | Date       |
+| ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [200. Number of Islands](../Probleme/0200.%20Number%20of%20Islands/)                                    | [`Array`](./array.md), [`Depth-First Search`](./dfs.md), [`Breadth-First Search`](./bfs.md), [`Union Find`](./union_find.md), [`Matrix`](./matrix.md)      | 19-04-2024 |
+| [2812. Find the Safest Path in a Grid](../Probleme/2812.%20Find%20the%20Safest%20Path%20in%20a%20Grid/) | [`Array`](./array.md), [`Binary Search`](./binary_search.md), [`Breadth-First Search`](./bfs.md), [`Union Find`](./union_find.md), [`Matrix`](./matrix.md) | 15-05-2024 |
 
 ### Difficile
 
