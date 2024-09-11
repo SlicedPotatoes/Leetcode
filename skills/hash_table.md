@@ -56,6 +56,7 @@ Un annuaire représenté comme une table de hachage. La fonction de hachage tran
 | [3081. Replace Question Marks in String to Minimize Its Value](../Probleme/3081.%20Replace%20Question%20Marks%20in%20String%20to%20Minimize%20Its%20Value/) | [`Hash Table`](./hash_table.md), [`String`](./string.md), [`Greedy`](./greedy.md), [`Sorting`](./sorting.md), [`Heap (Priority Queue)`](./priority_queue.md), [`Counting`](./counting.md) | 22-03-2024 |
 | [3128. Right Triangles](../Probleme/3128.%20Right%20Triangles/)                                                                                             | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`Math`](./math.md), `Combinatorics`, [`Counting`](./counting.md)                                                                 | 10-05-2024 |
 | [3143. Maximum Points Inside the Square](../Probleme/3143.%20Maximum%20Points%20Inside%20the%20Square/)                                                     | [`Array`](./array.md), [`Hash Table`](./hash_table.md), [`String`](./string.md), [`Binary Search`](./binary_search.md), [`Sorting`](./sorting.md)                                         | 06-07-2024 |
+| [3217. Delete Nodes From Linked List Present in Array](../Probleme/3217.%20Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array/)                   | [`Array`](./array.md), [`Hash Table`](./hash_table.md),[`Linked List`](./linked_list.md)                                                                                                  | 06-09-2024 |
 
 ### Difficile
 
